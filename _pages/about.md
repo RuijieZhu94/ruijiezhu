@@ -17,7 +17,8 @@ My research interest includes 3D reconstruction, SLAM and computer vision.
 
 Recent News
 ------
-I got second place on Monocular Depth Estimation leaderboard in ECCV2022 workshop: Robust Vision Challenge 2022. [link](http://www.robustvision.net/leaderboard.php?benchmark=depth)
+- June.2023 - I got the first place on RoboDepth competition [Track1](https://codalab.lisn.upsaclay.fr/competitions/9418#results) (self-supervised monocular depth estimation) and the second place on [Track2](https://codalab.lisn.upsaclay.fr/competitions/9821#results) (fully-supervised monocular depth estimation) in ICRA 2023.
+- Oct.2022 - I got second place on Monocular Depth Estimation leaderboard in ECCV2022 workshop: [Robust Vision Challenge 2022](http://www.robustvision.net/leaderboard.php?benchmark=depth).
 
 Experiences
 ------
