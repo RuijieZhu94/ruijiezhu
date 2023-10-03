@@ -13,12 +13,13 @@ Biography
 
 I am currently a postgraduate student working with Prof. Zhang Yongdong and Prof. Zhang Tianzhu at University of Science and Technology of China (USTC). I got the B.S. degree in computer science at Northwestern Polytechnical University (NWPU) in 2022.
 
-My research interest includes 3D reconstruction, SLAM and computer vision. 
+My research interest includes Depth estimation, 3D reconstruction, and Nerual rendering. 
 
 Recent News
 ------
-- June.2023 - I got the 1st place on RoboDepth competition [Track1](https://codalab.lisn.upsaclay.fr/competitions/9418#results) (self-supervised monocular depth estimation) and the 2nd place on [Track2](https://codalab.lisn.upsaclay.fr/competitions/9821#results) (fully-supervised monocular depth estimation) in ICRA 2023.
-- Oct.2022 - I got 2nd place on Monocular Depth Estimation leaderboard in ECCV2022 workshop: [Robust Vision Challenge 2022](http://www.robustvision.net/leaderboard.php?benchmark=depth).
+- Oct. 2023 - I got the **1st place** on ICCV 2023 workshop [To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads](https://sites.google.com/view/vschh/home).
+- June.2023 - I got the **1st place** on RoboDepth competition [Track1](https://codalab.lisn.upsaclay.fr/competitions/9418#results) (self-supervised monocular depth estimation) and the **2nd place** on [Track2](https://codalab.lisn.upsaclay.fr/competitions/9821#results) (fully-supervised monocular depth estimation) in ICRA 2023.
+- Oct.2022 - I got **2nd place** on Monocular Depth Estimation leaderboard in ECCV2022 workshop: [Robust Vision Challenge 2022](http://www.robustvision.net/leaderboard.php?benchmark=depth).
 
 Experiences
 ------
@@ -37,6 +38,7 @@ Awards
 
 Talks
 ------
+- ["TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction"](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk)
 - ["IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation", ICRA, 2023](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1)
 - ["MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets", ECCV, 2022](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk)
 
