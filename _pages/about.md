@@ -38,9 +38,9 @@ Awards
 
 Talks
 ------
-- ["TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction"](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk)
-- ["IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation", ICRA, 2023](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1)
-- ["MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets", ECCV, 2022](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk)
+- [TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk), ICCV, 2023
+- [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
+- [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022
 
 Publications
 ------
