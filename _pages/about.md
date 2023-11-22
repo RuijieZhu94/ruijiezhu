@@ -17,8 +17,8 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 Recent News
 ------
-- Nov. 2023: [HA-Bins](https://ieeexplore.ieee.org/document/10325550/authors#authors) is accepted by TCSVT.
-- Oct. 2023: [EC-Depth](https://arxiv.org/abs/2310.08044) is released on arXiv. [code](https://github.com/RuijieZhu94/EC-Depth)
+- Nov. 2023: [HA-Bins](https://ieeexplore.ieee.org/document/10325550/authors#authors) was accepted by TCSVT.
+- Oct. 2023: [EC-Depth](https://arxiv.org/abs/2310.08044) was released on arXiv. [[code]](https://github.com/RuijieZhu94/EC-Depth)
 - Oct. 2023: I got the **1st place** on ICCV 2023 workshop [To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads](https://sites.google.com/view/vschh/home). [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf) [[video]](https://youtu.be/be4dT4Ain48)
 - June.2023: I got the **1st place** on RoboDepth competition [Track1](https://codalab.lisn.upsaclay.fr/competitions/9418#results) (self-supervised monocular depth estimation) and the **2nd place** on [Track2](https://codalab.lisn.upsaclay.fr/competitions/9821#results) (fully-supervised monocular depth estimation) in ICRA 2023. [[paper]](https://arxiv.org/pdf/2307.15061) [[video]](https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767)
 - Oct.2022: I got **2nd place** on Monocular Depth Estimation leaderboard in ECCV2022 workshop: [Robust Vision Challenge 2022](http://www.robustvision.net/leaderboard.php?benchmark=depth). [[video]](https://youtu.be/8ZwiSUYNJiI)
