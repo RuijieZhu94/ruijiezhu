@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">my Google Scholar profile</a>.
 
 Selected Publications
 ------
