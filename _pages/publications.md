@@ -20,7 +20,7 @@ Selected Publications
 ------
 
 <b>2. [EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes](https://ruijiezhu94.github.io/ECDepth_page/)</b> <br> 
-<b>Ruijie Zhu*</b>, Ziyang Song*, Chuxin Wang, Jianfeng He, Tianzhu Zhang<br> 
+<b>Ruijie Zhu\*</b>, Ziyang Song\*, Chuxin Wang, Jianfeng He, Tianzhu Zhang<br> 
 <i>ArXiv 2023</i>
 
 <b>1. [HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets](https://ruijiezhu94.github.io/HABins_TCSVT2023/)</b> <br> 
