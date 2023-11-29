@@ -37,6 +37,7 @@ Awards
 - Wuyajun Scholarship & first class scholarship of NWPU, 2020
 - CATIC Scholarship(The highest honor for graduates, <1%) & first class scholarship of NWPU, 2021
 - Outstanding Graduate of NWPU, 2022
+- USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
 
 Talks
 ------
@@ -44,7 +45,7 @@ Talks
 - [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
 - [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022
 
-Publications
+<!-- Publications
 ------
 - 2023
 7. R. Zhu, Z. Song, L. Liu, J. He, T. Zhang and Y. Zhang, "HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335316.
@@ -58,4 +59,4 @@ Publications
 
 Patents
 ------
-1. 戴玉超, 朱睿杰, 项末初,等. 基于深度学习的Android手机端侧AR交互系统[p]. 中国, CN115309301A, 2022.
+1. 戴玉超, 朱睿杰, 项末初,等. 基于深度学习的Android手机端侧AR交互系统[p]. 中国, CN115309301A, 2022. -->
