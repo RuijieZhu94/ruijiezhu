@@ -61,4 +61,5 @@ Patents
 ------
 1. 戴玉超, 朱睿杰, 项末初,等. 基于深度学习的Android手机端侧AR交互系统[p]. 中国, CN115309301A, 2022. -->
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM'></script>
