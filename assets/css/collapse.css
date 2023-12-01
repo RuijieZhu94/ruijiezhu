@@ -14,3 +14,9 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+
+#clstr_globe .clustrmaps-container {
+  width: 25%; /* 设置宽度为父元素宽度的% */
+  height: auto; /* 自动计算高度，保持原始宽高比 */
+}
