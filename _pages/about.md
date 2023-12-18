@@ -17,6 +17,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 Recent News
 ------
+- Dec. 2023: [TI-Face](https://arxiv.org/abs/2312.09527) was released on arXiv.
 - Nov. 2023: [HA-Bins](https://ruijiezhu94.github.io/HABins_TCSVT2023/) was accepted by TCSVT.
 - Oct. 2023: [EC-Depth](https://ruijiezhu94.github.io/ECDepth_page/) was released on arXiv.
 - Oct. 2023: I got the **1st place** in ICCV 2023 workshop [To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads](https://sites.google.com/view/vschh/home). [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf) [[video]](https://youtu.be/be4dT4Ain48)

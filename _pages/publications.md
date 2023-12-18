@@ -18,6 +18,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 Selected Publications
 ------
+<b>3. [TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces](https://arxiv.org/abs/2312.09527)</b> <br> 
+<b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang<br> 
+<i>1st place solution in the View Synthesis Challenge for Human Heads (VSCHH) at the ICCV 2023 workshop</i>
 
 <b>2. [EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes](https://ruijiezhu94.github.io/ECDepth_page/)</b> <br> 
 <b>Ruijie Zhu\*</b>, Ziyang Song\*, Chuxin Wang, Jianfeng He, Tianzhu Zhang<br> 
