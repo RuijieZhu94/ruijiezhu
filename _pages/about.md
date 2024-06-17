@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhu Ruijie 朱睿杰"
+title: "Ruijie Zhu 朱睿杰"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,11 @@ redirect_from:
 Biography
 ------
 
-I am currently a postgraduate student working with Prof. Zhang Yongdong and Prof. Zhang Tianzhu at University of Science and Technology of China (USTC). I got the B.S. degree in computer science at Northwestern Polytechnical University (NWPU) in 2022.
+I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). I got the B.Eng. degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
 My research interest includes Depth estimation, 3D reconstruction, and Nerual rendering. 
+
+**I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at ruijiezhu@mail.ustc.edu.cn.**
 
 Recent News
 ------
@@ -27,9 +29,9 @@ Recent News
 Experiences
 ------
 - Sept.2018 - July.2022, Undergradute, Honors College, NWPU
-- July.2019 - Aug.2019, Visiting Student, University of Oxford
+<!-- - July.2019 - Aug.2019, Visiting Student, University of Oxford -->
 - July.2020 - Sept.2020, Software Development Intern, Huawei
-- April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge
+<!-- - April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge -->
 - Sept.2022 - Now, Postgraduate, USTC
 
 Awards

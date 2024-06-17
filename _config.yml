@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Zhu Ruijie"
+name                     : &name "Ruijie Zhu"
 description              : &description "Master at USTC"
 url                      : https://ruijiezhu94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/ruijiezhu" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhu Ruijie"
+  name             : "Ruijie Zhu"
   avatar           : "profile.png"
   bio              : "Postgraduate at USTC"
   location         : "Anhui, China"
