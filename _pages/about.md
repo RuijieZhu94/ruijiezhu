@@ -41,6 +41,7 @@ Awards
 - CATIC Scholarship(The highest honor for graduates, <1%) & first class scholarship of NWPU, 2021
 - Outstanding Graduate of NWPU, 2022
 - USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
+- Deep Space Exploration Scholarship, 2024
 
 <!-- Talks
 ------
