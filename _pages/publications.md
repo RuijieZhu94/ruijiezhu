@@ -25,7 +25,7 @@ Selected Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="assets/teaser/2023-iccvw-TI-Face.png" style=" vertical-align:middle"/>
+      <img src="images/2023-iccvw-TI-Face.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
@@ -40,7 +40,7 @@ Selected Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="assets/teaser/2023-arxiv-ECDepth.jpg" style=" vertical-align:middle"/>
+      <img src="images/2023-arxiv-ECDepth.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/ECDepth_page/">EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes</a>
@@ -55,7 +55,7 @@ Selected Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="assets/teaser/2023-tcsvt-HABins.jpg" style=" vertical-align:middle"/>
+      <img src="images/2023-tcsvt-HABins.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</a>
