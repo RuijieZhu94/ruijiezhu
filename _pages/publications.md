@@ -19,17 +19,6 @@ Selected Publications
 ------
 
 \* denotes equal contribution. More publications can be found in <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
-<!-- <b>3. [TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces](https://arxiv.org/abs/2312.09527)</b> <br> 
-<b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang<br> 
-<i>1st place solution in the View Synthesis Challenge for Human Heads (VSCHH) at the ICCV 2023 workshop</i>
-
-<b>2. [EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes](https://ruijiezhu94.github.io/ECDepth_page/)</b> <br> 
-<b>Ruijie Zhu\*</b>, Ziyang Song\*, Chuxin Wang, Jianfeng He, Tianzhu Zhang<br> 
-<i>ArXiv 2023</i>
-
-<b>1. [HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets](https://ruijiezhu94.github.io/HABins_TCSVT2023/)</b> <br> 
-<b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang<br> 
-<i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2023</i> -->
 
 
 <table style="border-collapse: collapse; border: none;">
