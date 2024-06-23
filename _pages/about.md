@@ -34,21 +34,6 @@ Experiences
 <!-- - April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge -->
 - Sept.2022 - Now, Postgraduate, USTC
 
-Awards
-------
-- Wuyajun Scholarship & first class scholarship of NWPU, 2019
-- Wuyajun Scholarship & first class scholarship of NWPU, 2020
-- CATIC Scholarship(The highest honor for graduates, <1%) & first class scholarship of NWPU, 2021
-- Outstanding Graduate of NWPU, 2022
-- USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
-- Deep Space Exploration Scholarship, 2024
-
-<!-- Talks
-------
-- [TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk), ICCV, 2023
-- [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
-- [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022 -->
-
 <!-- Publications
 ------
 - 2023
@@ -120,6 +105,21 @@ Publications
 
 
 </table>
+
+<!-- Talks
+------
+- [TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk), ICCV, 2023
+- [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
+- [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022 -->
+
+Awards
+------
+- Wuyajun Scholarship & first class scholarship of NWPU, 2019
+- Wuyajun Scholarship & first class scholarship of NWPU, 2020
+- CATIC Scholarship(The highest honor for graduates, <1%) & first class scholarship of NWPU, 2021
+- Outstanding Graduate of NWPU, 2022
+- USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
+- Deep Space Exploration Scholarship, 2024
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
