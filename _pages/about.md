@@ -61,7 +61,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-arxiv-ScaleDepth.jpg" style=" vertical-align:middle"/>
+      <img src="images/2024-arxiv-ScaleDepth.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a>
