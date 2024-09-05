@@ -19,6 +19,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 Recent News
 ------
+- Sep. 2024: [Plane2Depth](https://arxiv.org/abs/2409.02494) was released on arXiv.
 - Jul. 2024: [ScaleDepth](https://ruijiezhu94.github.io/ScaleDepth) was released on arXiv.
 - Dec. 2023: [TI-Face](https://arxiv.org/abs/2312.09527) was released on arXiv.
 - Nov. 2023: [HA-Bins](https://ruijiezhu94.github.io/HABins_TCSVT2023) was accepted by TCSVT.
@@ -58,6 +59,21 @@ Publications
 
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-arxiv-plane2depth.png" style=" vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/Plane2Depth">Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</a>
+      <br>Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang
+      <br> Arxiv, 2024
+      <br> 
+      <a href="https://arxiv.org/abs/2409.02494">[Paper]</a>
+      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
+      <a href="https://github.com/RuijieZhu94/mmdepth">[Code]</a>
+    </td>
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
