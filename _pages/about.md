@@ -40,12 +40,13 @@ Experiences
 
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" class="logo-img"></a>
-  <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" class="logo-img"></a>
-  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" class="logo-img"></a>
-  <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" class="logo-img"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.png" alt="AI Lab" class="logo-img"></a>
+  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 100px; width: auto;"></a>
+  <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" style="height: 100px; width: auto;"></a>
+  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 100px; width: auto;"></a>
+  <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a>
+  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.png" alt="AILab" style="height: 100px; width: auto;"></a>
 </div>
+
 
 <!-- Publications
 ------
@@ -73,7 +74,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-arxiv-plane2depth.png" style=" vertical-align:middle"/>
+      <img src="images/2024-arxiv-plane2depth.png" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/Plane2Depth">Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</a>
@@ -88,7 +89,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-arxiv-ScaleDepth.jpg" style=" vertical-align:middle"/>
+      <img src="images/2024-arxiv-ScaleDepth.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a>
@@ -103,7 +104,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-iccvw-TI-Face.png" style=" vertical-align:middle"/>
+      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
@@ -118,7 +119,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-arxiv-ECDepth.jpg" style=" vertical-align:middle"/>
+      <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/ECDepth_page/">EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes</a>
@@ -133,7 +134,7 @@ Publications
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-tcsvt-HABins.jpg" style=" vertical-align:middle"/>
+      <img src="images/2023-tcsvt-HABins.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</a>

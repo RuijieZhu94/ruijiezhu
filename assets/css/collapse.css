@@ -16,12 +16,6 @@
     padding : 5px;
 }
 
-.logo-img {
-    height: 60px; /* 设置固定高度 */
-    width: auto;   /* 自动调整宽度 */
-}
-  
-
 #clstr_globe .clustrmaps-container {
   width: 25%; /* 设置宽度为父元素宽度的% */
   height: auto; /* 自动计算高度，保持原始宽高比 */
