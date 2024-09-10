@@ -44,7 +44,7 @@ Experiences
   <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" style="height: 100px; width: auto;"></a>
   <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 100px; width: auto;"></a>
   <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.png" alt="AILab" style="height: 100px; width: auto;"></a>
+  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="AILab" style="height: 100px; width: auto;"></a>
 </div>
 
 
