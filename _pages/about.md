@@ -38,18 +38,13 @@ Experiences
 - Jan. 2024 - Apr. 2024, Algorithm devolopment intern, SenseTime Inc.
 - Aug. 2024 - Now, Research intern, Shanghai AILab
 
-<div class="logo">
-  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png"></a>
-  <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg"></a>
-  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png"></a>
-  <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.png"></a>
-  <!-- <span class="logo2">
-    <a href=""><img src="./images/meta_logo.png"></a>
-    <a href=""><img src="./images/ubisoft_logo.png"></a>
-    <a href=""><img src="./images/kwai_logo.png"></a>
-    <a href=""><img src="./images/lightchaser_logo.png"></a>
-  </span> -->
+
+<div class="logo" style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" class="logo-img"></a>
+  <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" class="logo-img"></a>
+  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" class="logo-img"></a>
+  <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" class="logo-img"></a>
+  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.png" alt="AI Lab" class="logo-img"></a>
 </div>
 
 <!-- Publications
