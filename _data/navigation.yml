@@ -1,22 +1,27 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Biography"
+    url: /#biography
+
+  - title: "Recent News"
+    url: /#recent-news/
+
+  - title: "Experiences"
+    url: /#experiences/
+
+  - title: "Publications"
+    url: /#publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /#talks
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
+  - title: "Awards"
+    url: /#awards/    
+  
   - title: "Posts"
-    url: /year-archive/
+    url: /#posts/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Others"
+    url: /#others/
     
-  # - title: "Guide"
-  #   url: /markdown/
+
