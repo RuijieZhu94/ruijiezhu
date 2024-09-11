@@ -4,24 +4,24 @@ main:
     url: /#biography
 
   - title: "Recent News"
-    url: /#recent-news/
+    url: /#recent-news
 
   - title: "Experiences"
-    url: /#experiences/
+    url: /#experiences
 
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
 
   - title: "Talks"
     url: /#talks
 
   - title: "Awards"
-    url: /#awards/    
+    url: /#awards    
   
   - title: "Posts"
-    url: /#posts/
+    url: /#posts
     
   - title: "Others"
-    url: /#others/
+    url: /#others
     
 
