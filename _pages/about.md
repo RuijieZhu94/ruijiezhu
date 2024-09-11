@@ -17,9 +17,9 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 **I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at ruijiezhu@mail.ustc.edu.cn.**
 
-<!-- Recent News
+Recent News
 ------
-- Sep. 2024: [Plane2Depth](https://arxiv.org/abs/2409.02494) was released on arXiv.
+<!-- - Sep. 2024: [Plane2Depth](https://arxiv.org/abs/2409.02494) was released on arXiv.
 - Jul. 2024: [ScaleDepth](https://ruijiezhu94.github.io/ScaleDepth) was released on arXiv.
 - Dec. 2023: [TI-Face](https://arxiv.org/abs/2312.09527) was released on arXiv.
 - Nov. 2023: [HA-Bins](https://ruijiezhu94.github.io/HABins_TCSVT2023) was accepted by TCSVT.
