@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+### Biography
 
 I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). I got the B.Eng. degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
@@ -16,7 +16,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 **I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at ruijiezhu@mail.ustc.edu.cn.**
 
-# Recent News
+### Recent News
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
@@ -32,7 +32,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 </div>
 
 
-# Experiences
+### Experiences
 
 - Sept. 2018 - July. 2022, Undergradute, Honors College, NWPU
 <!-- - July.2019 - Aug.2019, Visiting Student, University of Oxford -->
@@ -52,7 +52,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 </div>
 
 
-# Publications
+### Publications
 
 
 \* denotes equal contribution. More publications can be found in <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
@@ -138,13 +138,13 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 </table>
 
-# Talks
+### Talks
 
 - [TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk), ICCV, 2023
 - [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
 - [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022
 
-# Awards
+### Awards
 
 - Wuyajun Scholarship & first class scholarship of NWPU, 2019
 - Wuyajun Scholarship & first class scholarship of NWPU, 2020
@@ -153,13 +153,13 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 - USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
 - Deep Space Exploration Scholarship, 2024
 
-# Posts
+### Posts
 
 - VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
 - Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf)
  [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
 
-# Others
+### Others
 
 - Reviewer: ICRA 2023
 
