@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 ## Biography
-------
 
 I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). I got the B.Eng. degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
@@ -18,7 +17,6 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 **I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at ruijiezhu@mail.ustc.edu.cn.**
 
 ## Recent News
-------
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
@@ -35,7 +33,6 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 
 ## Experiences
-------
 
 - Sept. 2018 - July. 2022, Undergradute, Honors College, NWPU
 <!-- - July.2019 - Aug.2019, Visiting Student, University of Oxford -->
@@ -56,7 +53,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 
 ## Publications
-------
+
 
 \* denotes equal contribution. More publications can be found in <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
 
@@ -142,14 +139,58 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 </table>
 
 ## Talks
-------
 
-- [TIFace: Improving Tensorial Radiance Field and Implicit Surfaces for Face Reconstruction](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk), ICCV, 2023
-- [IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation](https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1), ICRA, 2023
-- [MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets](https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk), ECCV, 2022
+
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
+      <br>"To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads" workshop
+      <br> Paris @ ICCV, 2023
+      <br> 
+      <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
+      <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
+      <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
+      <a href="https://sites.google.com/view/vschh/home">[Challenge]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-icraw-IRUDepth.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1">IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</a>
+      <br>"RoboDepth: The 1st Challenge on Robust Depth Estimation under Corruptions" workshop
+      <br> London @ ICRA, 2023
+      <br> 
+      <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[Video]</a>
+      <a href="https://robodepth.github.io/">[Challenge]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2022-eccvw-MixBins.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk">MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</a>
+      <br>"Robust Vision Challenge" workshop
+      <br> Tel Aviv @ ECCV, 2022
+      <br> 
+      <a href="https://youtu.be/8ZwiSUYNJiI">[Video]</a>
+      <a href="http://www.robustvision.net/index.php">[Challenge]</a>
+    </td>
+  </tr>
+
+</table>
 
 ## Awards
-------
 
 - Wuyajun Scholarship & first class scholarship of NWPU, 2019
 - Wuyajun Scholarship & first class scholarship of NWPU, 2020
@@ -159,14 +200,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 - Deep Space Exploration Scholarship, 2024
 
 ## Posts
-------
 
 - VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
 - Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf)
  [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
 
 ## Others
-------
 
 - Reviewer: ICRA 2023
 
