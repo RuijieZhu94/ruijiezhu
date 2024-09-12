@@ -194,7 +194,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 - Wuyajun Scholarship & first class scholarship of NWPU, 2019
 - Wuyajun Scholarship & first class scholarship of NWPU, 2020
-- CATIC Scholarship(The highest honor for graduates, <1%) & first class scholarship of NWPU, 2021
+- CATIC Scholarship (the highest scholarship for graduates, <1%) & first class scholarship of NWPU, 2021
 - Outstanding Graduate of NWPU, 2022
 - USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
 - Deep Space Exploration Scholarship, 2024
