@@ -214,7 +214,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM'></script> -->
 
 <div style="text-align: center;">
-  <div id="clustr_globe_container" style="display: inline-block; width: 300px; height: 300px;">
+  <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
   </div>
 </div>
