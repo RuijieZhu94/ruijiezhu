@@ -20,7 +20,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
-    <li>Sep. 2024: Two paper MotionGS and DN-4DGS were accepted by NeurIPS 2024.</li>
+    <li>Sep. 2024: Two papers MotionGS and DN-4DGS were accepted by NeurIPS 2024.</li>
     <li>Sep. 2024: <a href="https://arxiv.org/abs/2409.02494">Plane2Depth</a> was released on arXiv.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
     <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
@@ -60,6 +60,37 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 
 <table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-motiongs.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/xxxx">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
+      <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
+      <br> NeuIPS, 2024
+      <br> 
+      <a href="https://arxiv.org/abs/xxxx">[Paper]</a>
+      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
+      <!-- <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a> -->
+    </td>
+  </tr>
+
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-dn4dgs.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ruijiezhu94.github.io/xxxx">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a>
+      <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
+      <br> NeuIPS, 2024
+      <br> 
+      <a href="https://arxiv.org/abs/xxxx">[Paper]</a>
+      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
+      <!-- <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a> -->
+    </td>
+  </tr>
+
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
