@@ -21,7 +21,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
     <li>Oct. 2024: <a href="https://arxiv.org/abs/2409.02494">Plane2Depth</a> was accepted by TCSVT.</li>  
-    <li>Sep. 2024: Two papers MotionGS and DN-4DGS were accepted by NeurIPS 2024.</li>
+    <li>Sep. 2024: Two papers <a href="https://arxiv.org/abs/2410.07707">MotionGS</a> and <a href="https://arxiv.org/abs/xxxx">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
     <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
     <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by TCSVT.</li>
@@ -69,9 +69,9 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
       <br> NeuIPS, 2024
       <br> 
-      <a href="https://arxiv.org/abs/xxxx">[Paper]</a>
-      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
-      <!-- <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a> -->
+      <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
+      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
     </td>
   </tr>
 
