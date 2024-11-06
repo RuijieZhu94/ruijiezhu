@@ -230,6 +230,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 - Outstanding Graduate of NWPU, 2022
 - USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
 - Deep Space Exploration Scholarship, 2024
+- National Scholarship of China, 2024
 
 ## Posts
 
