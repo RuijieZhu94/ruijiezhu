@@ -67,11 +67,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
     <td style="align-items:center; border: none;">
       <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
       <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
-      <br> NeuIPS, 2024
+      <br> NeurIPS, 2024
       <br> 
       <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
       <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a>
     </td>
   </tr>
 
@@ -83,11 +84,11 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
     <td style="align-items:center; border: none;">
       <a href="https://arxiv.org/abs/2410.13607">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a>
       <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
-      <br> NeuIPS, 2024
+      <br> NeurIPS, 2024
       <br> 
       <a href="https://arxiv.org/abs/2410.13607">[Paper]</a>
-      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
-      <!-- <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a> -->
+      <!-- <a href="">[Webpage]</a> -->
+      <a href="https://github.com/peoplelu/DN-4DGS">[Code]</a>
     </td>
   </tr>
 
