@@ -173,23 +173,37 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 ## Talks
 
-
-
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
+      <br>Poster session: East Exhibit Hall A-C #1203
+      <br>Vancouver @ NeurIPS, 2024
+      <!-- <br>  -->
+      <!-- <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
+      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a> -->
+    </td>
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2023-10-02-talk">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
+      <a href="https://youtu.be/QRuVvtpoeVM">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
       <br>"To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads" workshop
       <br> Paris @ ICCV, 2023
-      <br> 
+      <!-- <br> 
       <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
       <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
       <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
-      <a href="https://sites.google.com/view/vschh/home">[Challenge]</a>
+      <a href="https://sites.google.com/view/vschh/home">[Challenge]</a> -->
     </td>
   </tr>
 
@@ -198,12 +212,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <img src="images/2023-icraw-IRUDepth.png" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2023-05-30-talk-1">IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</a>
+      <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</a>
       <br>"RoboDepth: The 1st Challenge on Robust Depth Estimation under Corruptions" workshop
       <br> London @ ICRA, 2023
-      <br> 
+      <!-- <br> 
       <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[Video]</a>
-      <a href="https://robodepth.github.io/">[Challenge]</a>
+      <a href="https://robodepth.github.io/">[Challenge]</a> -->
     </td>
   </tr>
 
@@ -212,12 +226,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <img src="images/2022-eccvw-MixBins.png" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://ruijiezhu94.github.io/ruijiezhu/talks/2022-10-23-talk">MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</a>
+      <a href="https://youtu.be/8ZwiSUYNJiI">MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</a>
       <br>"Robust Vision Challenge" workshop
       <br> Tel Aviv @ ECCV, 2022
-      <br> 
+      <!-- <br> 
       <a href="https://youtu.be/8ZwiSUYNJiI">[Video]</a>
-      <a href="http://www.robustvision.net/index.php">[Challenge]</a>
+      <a href="http://www.robustvision.net/index.php">[Challenge]</a> -->
     </td>
   </tr>
 
