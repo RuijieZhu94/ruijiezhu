@@ -20,7 +20,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
-    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by TCSVT.</li>
+    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
     <li>Oct. 2024: <a href="https://arxiv.org/abs/2409.02494">Plane2Depth</a> was accepted by TCSVT.</li>  
     <li>Sep. 2024: Two papers <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
