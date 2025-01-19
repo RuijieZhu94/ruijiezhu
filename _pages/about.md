@@ -20,6 +20,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
+    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by TCSVT.</li>
     <li>Oct. 2024: <a href="https://arxiv.org/abs/2409.02494">Plane2Depth</a> was accepted by TCSVT.</li>  
     <li>Sep. 2024: Two papers <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
@@ -60,6 +61,23 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-arxiv-depthmaster.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</a>
+      <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
+      <br> Arxiv, 2024
+      <br> 
+      <a href="https://arxiv.org/abs/2501.02576">[Paper]</a>
+      <a href="https://indu1ge.github.io/DepthMaster_page/">[Webpage]</a>
+      <a href="https://github.com/indu1ge/DepthMaster">[Code]</a>
+      <a href="https://huggingface.co/zysong212/DepthMaster">[Model]</a>
+    </td>
+  </tr>
+
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2024-nips-motiongs.png" style="vertical-align:middle"/>
@@ -103,8 +121,8 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <br> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
       <br> 
       <a href="https://arxiv.org/abs/2409.02494">[Paper]</a>
-      <!-- <a href="https://ruijiezhu94.github.io/Plane2Depth">[Webpage]</a> -->
-      <a href="https://github.com/RuijieZhu94/mmdepth">[Code]</a>
+      <a href="https://ruijiezhu94.github.io/plane2depth_page">[Webpage]</a>
+      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Plane2Depth">[Code]</a>
     </td>
   </tr>
 
@@ -119,7 +137,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <br> 
       <a href="https://arxiv.org/abs/2407.08187">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ScaleDepth">[Webpage]</a>
-      <a href="https://github.com/RuijieZhu94/mmdepth">[Code]</a>
+      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">[Code]</a>
     </td>
   </tr>
 
