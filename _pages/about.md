@@ -40,7 +40,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 <!-- - April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge -->
 - Sept. 2022 - Now, Postgraduate, USTC
 - Jan. 2024 - Apr. 2024, Algorithm devolopment intern, SenseTime Inc.
-- Aug. 2024 - Now, Research intern, Shanghai AILab
+- Aug. 2024 - Mar. 2025, Research intern, Shanghai AILab
 
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center;">
