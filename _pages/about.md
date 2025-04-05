@@ -12,9 +12,7 @@ redirect_from:
 
 I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). I got the B.Eng. degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
-My research interest includes Depth estimation, 3D reconstruction, and Nerual rendering. 
-
-<!-- **I am looking for a Ph.D. position (25 Fall) in 3D vision, feel free to contact me at ruijiezhu@mail.ustc.edu.cn.** -->
+My research interest includes Depth estimation, 3D reconstruction, and Neural rendering. 
 
 ## Recent News
 
@@ -26,7 +24,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
     <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
     <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by TCSVT.</li>
-    <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ECDepth_page">EC-Depth</a> was released on arXiv.</li>
+    <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
     <li>Oct. 2023: I got the <strong>1st place</strong> in ICCV 2023 workshop <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
     <li>June 2023: I got the <strong>1st place</strong> on RoboDepth competition <a href="https://codalab.lisn.upsaclay.fr/competitions/9418#results">Track1</a> (self-supervised monocular depth estimation) and the <strong>2nd place</strong> on <a href="https://codalab.lisn.upsaclay.fr/competitions/9821#results">Track2</a> (fully-supervised monocular depth estimation) in ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
     <li>Oct. 2022: I got <strong>2nd place</strong> on Monocular Depth Estimation leaderboard in ECCV2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
@@ -166,7 +164,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
       <br> ArXiv, 2023
       <br> 
       <a href="http://arxiv.org/abs/2310.08044">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ECDepth_page/">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Webpage]</a>
       <a href="https://github.com/RuijieZhu94/EC-Depth">[Code]</a>
     </td>
   </tr>
@@ -273,7 +271,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Nerual re
 
 ## Others
 
-- Reviewer: ICRA 2023
+- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
