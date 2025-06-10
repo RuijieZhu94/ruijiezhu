@@ -36,19 +36,21 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 - Sept. 2018 - July. 2022, Undergradute, Honors College, NWPU
 <!-- - July.2019 - Aug.2019, Visiting Student, University of Oxford -->
-- July. 2020 - Sept. 2020, Software Development Intern, Huawei
+<!-- - July. 2020 - Sept. 2020, Software Development Intern, Huawei -->
 <!-- - April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge -->
 - Sept. 2022 - Now, Postgraduate, USTC
-- Jan. 2024 - Apr. 2024, Algorithm devolopment intern, SenseTime Inc.
-- Aug. 2024 - Mar. 2025, Research intern, Shanghai AILab
+<!-- - Jan. 2024 - Apr. 2024, Algorithm devolopment intern, SenseTime Inc. -->
+- Aug. 2024 - Mar. 2025, Research intern, Shanghai Pujiang Lab
+- May. 2025 - Now, Research intern, Tencent ARC Lab
 
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 100px; width: auto;"></a>
-  <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" style="height: 100px; width: auto;"></a>
+  <!-- <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" style="height: 100px; width: auto;"></a> -->
   <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 100px; width: auto;"></a>
-  <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="AILab" style="height: 100px; width: auto;"></a>
+  <!-- <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a> -->
+  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
+  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 100px; width: auto;"></a>
 </div>
 
 
@@ -271,7 +273,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 ## Others
 
-- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025
+- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025, NeurIPS 2025
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
