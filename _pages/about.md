@@ -289,7 +289,8 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
   <!-- Title -->
   <!-- <h3 style="color: #7f8c8d; font-size: 16px; margin-bottom: 10px;">Visitor Map</h3> -->
   <!-- Visitor Map Component -->
-  <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px; border: 2px solid #ecf0f1; border-radius: 8px; background-color: #f9f9f9;">
+
+  <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
   </div>
 </div>
