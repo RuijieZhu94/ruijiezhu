@@ -281,13 +281,13 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM'></script> -->
 
 <div style="text-align: center;">
-  <div id="lastModified" style="margin-top: 20px; font-size: 12px; color: #7f8c8d;">Last Modified: Jun 10, 2025
+  <br>
+  <!-- <div id="lastModified" style="margin-top: 20px; font-size: 12px; color: #7f8c8d;">Last Modified: Jun 10, 2025
   </div>
-  <hr style="border: 0; border-top: 2px solid #ecf0f1; width: 80%; margin: 10px auto;">
+  <hr style="border: 0; border-top: 2px solid #ecf0f1; width: 80%; margin: 10px auto;"> -->
 
   <!-- Title -->
-  <h3 style="color: #7f8c8d; font-size: 16px; margin-bottom: 10px;">Visitor Map</h3>
-
+  <!-- <h3 style="color: #7f8c8d; font-size: 16px; margin-bottom: 10px;">Visitor Map</h3> -->
   <!-- Visitor Map Component -->
   <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px; border: 2px solid #ecf0f1; border-radius: 8px; background-color: #f9f9f9;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
