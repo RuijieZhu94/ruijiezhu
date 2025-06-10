@@ -50,7 +50,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
   <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 100px; width: auto;"></a>
   <!-- <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a> -->
   <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
-  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 100px; width: auto;"></a>
+  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 80px; width: auto;"></a>
 </div>
 
 
