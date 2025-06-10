@@ -282,7 +282,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 <div style="text-align: center;">
   <br><br>
-  <div id="lastModified" style="margin-top: 20px; font-size: 12px; color: #7f8c8d;"> Last Modified: Jun 10, 2025
+  <div id="lastModified" style="margin-top: 20px; font-size: 12px; color: #7f8c8d;">Last Modified: Jun 10, 2025
   </div>
   <hr style="border: 0; border-top: 2px solid #ecf0f1; width: 80%; margin: 20px auto;">
 
