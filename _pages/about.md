@@ -10,7 +10,8 @@ redirect_from:
 
 ## Biography
 
-I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). I got the B.Eng. degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
+I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). 
+I got the bachelor degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
 My research interest includes Depth estimation, 3D reconstruction, and Neural rendering. 
 
@@ -18,12 +19,14 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
+    <li>Jan. 2025: <a href="">ObjectGS</a> was accepted by ICCV 2025.</li>
+    <li>Jun. 2025: Graduated from USTC!</li>
     <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
-    <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by TCSVT.</li>  
+    <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
     <li>Sep. 2024: Two papers <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
     <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
-    <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by TCSVT.</li>
+    <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
     <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
     <li>Oct. 2023: I got the <strong>1st place</strong> in ICCV 2023 workshop <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
     <li>June 2023: I got the <strong>1st place</strong> on RoboDepth competition <a href="https://codalab.lisn.upsaclay.fr/competitions/9418#results">Track1</a> (self-supervised monocular depth estimation) and the <strong>2nd place</strong> on <a href="https://codalab.lisn.upsaclay.fr/competitions/9821#results">Track2</a> (fully-supervised monocular depth estimation) in ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
