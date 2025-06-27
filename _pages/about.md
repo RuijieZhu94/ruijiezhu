@@ -19,7 +19,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
-    <li>Jan. 2025: <a href="">ObjectGS</a> was accepted by ICCV 2025.</li>
+    <li>Jun. 2025: <a href="">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC!</li>
     <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
     <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
@@ -64,6 +64,21 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a>
+      <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
+      <br> ICCV, 2025
+      <br> 
+      <a href="">[Paper]</a>
+      <a href="">[Webpage]</a>
+      <a href="">[Code]</a>
+    </td>
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
