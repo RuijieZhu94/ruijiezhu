@@ -179,9 +179,9 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
       <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://ruijiezhu94.github.io/ECDepth_page/">EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes</a>
-      <br>Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang
-      <br> ArXiv, 2023
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/">Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</a>
+      <br>Ziyang Song, <b>Ruijie Zhu</b>, Jing Wang, Chuxin Wang, Jiacheng Deng, Jianfeng He, Wenfei Yang, Tianzhu Zhang
+      <br> ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025
       <br> 
       <a href="http://arxiv.org/abs/2310.08044">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Webpage]</a>
