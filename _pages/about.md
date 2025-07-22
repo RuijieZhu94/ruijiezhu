@@ -70,13 +70,13 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
       <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a>
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a>
       <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
       <br> ICCV, 2025
       <br> 
-      <a href="">[Paper]</a>
-      <a href="">[Webpage]</a>
-      <a href="">[Code]</a>
+      <a href="http://arxiv.org/abs/2507.15454">[Paper]</a>
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">[Webpage]</a>
+      <a href="https://github.com/RuijieZhu94/ObjectGS">[Code]</a>
     </td>
   </tr>
 
