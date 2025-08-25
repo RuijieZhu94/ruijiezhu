@@ -292,7 +292,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 ## Others
 
-- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025, NeurIPS 2025
+- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, 3DV 2026, IJCV 2025
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
