@@ -67,6 +67,21 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-arxiv-meshsplat.png" style="vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</a>
+      <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
+      <br> Arxiv, 2025
+      <br> 
+      <a href="http://arxiv.org/abs/2508.17811">[Paper]</a>
+      <a href="https://hanzhichang.github.io/meshsplat_web/">[Webpage]</a>
+      <a href="https://github.com/HanzhiChang/MeshSplat">[Code]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
