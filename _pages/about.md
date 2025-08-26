@@ -19,7 +19,8 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
-    <li>Jun. 2025: <a href="">ObjectGS</a> was accepted by ICCV 2025.</li>
+    <li>Aug. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was released on arXiv.</li>
+    <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC!</li>
     <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
     <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
