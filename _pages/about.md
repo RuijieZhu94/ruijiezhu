@@ -19,7 +19,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
   <ul>
-    <li>Aug. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was released on arXiv.</li>
+    <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
     <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC!</li>
     <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
@@ -73,7 +73,7 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
     <td style="align-items:center; border: none;">
       <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</a>
       <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
-      <br> Arxiv, 2025
+      <br> AAAI, 2026
       <br> 
       <a href="http://arxiv.org/abs/2508.17811">[Paper]</a>
       <a href="https://hanzhichang.github.io/meshsplat_web/">[Webpage]</a>
