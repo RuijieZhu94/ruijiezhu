@@ -10,70 +10,62 @@ redirect_from:
 
 ## Biography
 
-I am currently a postgraduate student working with Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/) at University of Science and Technology of China (USTC). 
-I got the bachelor degree in Computer Science and Technology at Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
+I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2025, where I was advised by Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
-My research interest includes Depth estimation, 3D reconstruction, and Neural rendering. 
+My research interests lie in **3D Computer Vision**, with a particular focus on:
+*   **3D Gaussian Splatting & Neural Rendering**
+*   **Monocular Depth Estimation**
 
 ## Recent News
 
-<div style="border: 1px solid #ddd; padding: 10px; height: 200px; overflow-y: scroll;">
-  <ul>
-    <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
-    <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
-    <li>Jun. 2025: Graduated from USTC!</li>
-    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
-    <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
-    <li>Sep. 2024: Two papers <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
-    <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
-    <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
-    <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
-    <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
-    <li>Oct. 2023: I got the <strong>1st place</strong> in ICCV 2023 workshop <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
-    <li>June 2023: I got the <strong>1st place</strong> on RoboDepth competition <a href="https://codalab.lisn.upsaclay.fr/competitions/9418#results">Track1</a> (self-supervised monocular depth estimation) and the <strong>2nd place</strong> on <a href="https://codalab.lisn.upsaclay.fr/competitions/9821#results">Track2</a> (fully-supervised monocular depth estimation) in ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
-    <li>Oct. 2022: I got <strong>2nd place</strong> on Monocular Depth Estimation leaderboard in ECCV2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
+<div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
+  <ul style="padding-left: 20px;">
+    <li><strong>Nov. 2025:</strong> <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by <strong>AAAI 2026</strong>.</li>
+    <li><strong>Jun. 2025:</strong> <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by <strong>ICCV 2025</strong>.</li>
+    <li><strong>Jun. 2025:</strong> Graduated from USTC! 🎓</li>
+    <li><strong>Jan. 2025:</strong> <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
+    <li><strong>Oct. 2024:</strong> <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by <strong>IEEE TCSVT</strong>.</li>  
+    <li><strong>Sep. 2024:</strong> Two papers, <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a>, were accepted by <strong>NeurIPS 2024</strong>.</li>
+    <li><strong>Jul. 2024:</strong> <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
+    <li><strong>Dec. 2023:</strong> <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
+    <li><strong>Nov. 2023:</strong> <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by <strong>IEEE TCSVT</strong>.</li>
+    <li><strong>Oct. 2023:</strong> <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
+    <li><strong>Oct. 2023:</strong> Won the <strong>1st Place</strong> in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
+    <li><strong>June 2023:</strong> Won the <strong>1st Place</strong> on RoboDepth (Track 1) and <strong>2nd Place</strong> (Track 2) at ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
+    <li><strong>Oct. 2022:</strong> Won the <strong>2nd Place</strong> on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
   </ul>
 </div>
 
-
 ## Experiences
 
-- Sept. 2018 - July. 2022, Undergradute, Honors College, NWPU
-<!-- - July.2019 - Aug.2019, Visiting Student, University of Oxford -->
-<!-- - July. 2020 - Sept. 2020, Software Development Intern, Huawei -->
-<!-- - April.2021 - July.2021, Reinforcement Learining Research Online, University of Cambridge -->
-- Sept. 2022 - Now, Postgraduate, USTC
-<!-- - Jan. 2024 - Apr. 2024, Algorithm devolopment intern, SenseTime Inc. -->
-- Aug. 2024 - Mar. 2025, Research intern, Shanghai AI Lab
-- May. 2025 - Now, Research intern, Tencent ARC Lab
+*   **May 2025 - Present**: Research Intern, **Tencent ARC Lab**
+*   **Aug. 2024 - Mar. 2025**: Research Intern, **Shanghai AI Lab**
+*   **Sept. 2022 - Jun. 2025**: M.S. Candidate, **USTC**
+*   **Sept. 2018 - July 2022**: Undergraduate Student, Honors College, **NWPU**
 
-
-<div class="logo" style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 100px; width: auto;"></a>
-  <!-- <a href="https://www.huawei.com/en/"><img src="images/logo_HUAWEI.jpeg" alt="HUAWEI" style="height: 100px; width: auto;"></a> -->
-  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 100px; width: auto;"></a>
-  <!-- <a href="https://www.sensetime.com/"><img src="images/logo_SenseTime.png" alt="SenseTime" style="height: 100px; width: auto;"></a> -->
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 120px; width: auto;"></a>
-  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 50px; width: auto;"></a>
+<div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 80px; width: auto;"></a>
+  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 80px; width: auto;"></a>
+  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
+  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 40px; width: auto;"></a>
 </div>
-
 
 ## Publications
 
+\* denotes equal contribution. Full list available on <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
 
-\* denotes equal contribution. More publications can be found in <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
-
+### 3D Gaussian Splatting & Neural Rendering
 
 <table style="border-collapse: collapse; border: none;">
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2025-arxiv-meshsplat.png" style="vertical-align:middle"/>
+      <img src="images/2025-arxiv-meshsplat.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</a>
       <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
-      <br> AAAI, 2026
+      <br> <strong>AAAI 2026</strong>
       <br> 
       <a href="http://arxiv.org/abs/2508.17811">[Paper]</a>
       <a href="https://hanzhichang.github.io/meshsplat_web/">[Webpage]</a>
@@ -83,12 +75,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle"/>
+      <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a>
       <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
-      <br> ICCV, 2025
+      <br> <strong>ICCV 2025</strong>
       <br> 
       <a href="http://arxiv.org/abs/2507.15454">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ObjectGS_page/">[Webpage]</a>
@@ -98,12 +90,63 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2025-arxiv-depthmaster.png" style="vertical-align:middle"/>
+      <img src="images/2024-nips-motiongs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
+      <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
+      <br> <strong>NeurIPS 2024</strong>
+      <br> 
+      <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
+      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-dn4dgs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://arxiv.org/abs/2410.13607">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a>
+      <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
+      <br> <strong>NeurIPS 2024</strong>
+      <br> 
+      <a href="https://arxiv.org/abs/2410.13607">[Paper]</a>
+      <a href="https://github.com/peoplelu/DN-4DGS">[Code]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
+      <br><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang
+      <br> <strong>ICCVW 2023</strong> (1st Place in VSCHH Challenge)
+      <br> 
+      <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
+      <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
+      <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
+    </td>
+  </tr>
+
+</table>
+
+### Monocular Depth Estimation
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-arxiv-depthmaster.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</a>
       <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
-      <br> Arxiv, 2024
+      <br> <em>arXiv preprint</em>, 2024
       <br> 
       <a href="https://arxiv.org/abs/2501.02576">[Paper]</a>
       <a href="https://indu1ge.github.io/DepthMaster_page/">[Webpage]</a>
@@ -114,45 +157,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-nips-motiongs.png" style="vertical-align:middle"/>
+      <img src="images/2024-arxiv-plane2depth.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
-      <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
-      <br> NeurIPS, 2024
-      <br> 
-      <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
-      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
-      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a>
-    </td>
-  </tr>
-
-
-  <tr style="border: none;">
-    <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-nips-dn4dgs.png" style="vertical-align:middle"/>
-    </td>
-    <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/abs/2410.13607">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a>
-      <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
-      <br> NeurIPS, 2024
-      <br> 
-      <a href="https://arxiv.org/abs/2410.13607">[Paper]</a>
-      <!-- <a href="">[Webpage]</a> -->
-      <a href="https://github.com/peoplelu/DN-4DGS">[Code]</a>
-    </td>
-  </tr>
-
-
-  <tr style="border: none;">
-    <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-arxiv-plane2depth.png" style="vertical-align:middle"/>
-    </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/Plane2Depth">Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</a>
       <br>Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang
-      <br> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
+      <br> <strong>IEEE TCSVT 2024</strong>
       <br> 
       <a href="https://ieeexplore.ieee.org/document/10711868/">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/plane2depth_page">[Webpage]</a>
@@ -162,12 +172,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-arxiv-ScaleDepth.jpg" style="vertical-align:middle"/>
+      <img src="images/2024-arxiv-ScaleDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a>
       <br><b>Ruijie Zhu</b>, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang
-      <br> Arxiv, 2024
+      <br> <em>arXiv preprint</em>, 2024
       <br> 
       <a href="https://arxiv.org/abs/2407.08187">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ScaleDepth">[Webpage]</a>
@@ -177,27 +187,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle"/>
+      <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
-      <a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
-      <br><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang
-      <br> 1st place solution in the View Synthesis Challenge for Human Heads (VSCHH) @ ICCV, 2023
-      <br> 
-      <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
-      <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
-      <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
-    </td>
-  </tr>
-
-  <tr style="border: none;">
-    <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle"/>
-    </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/ERDepth_page/">ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</a>
       <br>Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang
-      <br> ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025
+      <br> <strong>ACM TOMM 2025</strong>
       <br> 
       <a href="http://arxiv.org/abs/2310.08044">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Webpage]</a>
@@ -207,12 +202,12 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-tcsvt-HABins.jpg" style="vertical-align:middle"/>
+      <img src="images/2023-tcsvt-HABins.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</a>
       <br><b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang
-      <br> IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023
+      <br> <strong>IEEE TCSVT 2023</strong>
       <br> 
       <a href="https://ieeexplore.ieee.org/document/10325550">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">[Webpage]</a>
@@ -220,110 +215,78 @@ My research interest includes Depth estimation, 3D reconstruction, and Neural re
     </td>
   </tr>
 
-
 </table>
 
 ## Talks
 
 <table style="border-collapse: collapse; border: none;">
-
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle"/>
+      <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://www.youtube.com/watch?v=25DgViuuKFI">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
       <br>Poster session: East Exhibit Hall A-C #1203
-      <br>Vancouver @ NeurIPS, 2024
-      <!-- <br>  -->
-      <!-- <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
-      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
-      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a> -->
+      <br><strong>NeurIPS 2024</strong>, Vancouver
     </td>
   </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle"/>
+      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://youtu.be/QRuVvtpoeVM">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
-      <br>"To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads" workshop
-      <br> Paris @ ICCV, 2023
-      <!-- <br> 
-      <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
-      <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
-      <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
-      <a href="https://sites.google.com/view/vschh/home">[Challenge]</a> -->
+      <br>"To NeRF or not to NeRF" Workshop
+      <br><strong>ICCV 2023</strong>, Paris
     </td>
   </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-icraw-IRUDepth.png" style="vertical-align:middle"/>
+      <img src="images/2023-icraw-IRUDepth.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</a>
-      <br>"RoboDepth: The 1st Challenge on Robust Depth Estimation under Corruptions" workshop
-      <br> London @ ICRA, 2023
-      <!-- <br> 
-      <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[Video]</a>
-      <a href="https://robodepth.github.io/">[Challenge]</a> -->
+      <br>"RoboDepth" Workshop
+      <br><strong>ICRA 2023</strong>, London
     </td>
   </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2022-eccvw-MixBins.png" style="vertical-align:middle"/>
+      <img src="images/2022-eccvw-MixBins.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
-    <td style="align-items:center; border: none;">
+    <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://youtu.be/8ZwiSUYNJiI">MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</a>
-      <br>"Robust Vision Challenge" workshop
-      <br> Tel Aviv @ ECCV, 2022
-      <!-- <br> 
-      <a href="https://youtu.be/8ZwiSUYNJiI">[Video]</a>
-      <a href="http://www.robustvision.net/index.php">[Challenge]</a> -->
+      <br>"Robust Vision Challenge" Workshop
+      <br><strong>ECCV 2022</strong>, Tel Aviv
     </td>
   </tr>
-
 </table>
 
 ## Awards
 
-- Wuyajun Scholarship & first class scholarship of NWPU, 2019
-- Wuyajun Scholarship & first class scholarship of NWPU, 2020
-- CATIC Scholarship (the highest scholarship for graduates, <1%) & first class scholarship of NWPU, 2021
-- Outstanding Graduate of NWPU, 2022
-- USTC-Suzhou Industrial Park Scholarship & first class scholarship of USTC, 2023
-- Deep Space Exploration Scholarship, 2024
-- National Scholarship of China, 2024
-- Outstanging Graduate of USTC, 2025
+*   **Outstanding Graduate of USTC**, 2025
+*   **National Scholarship of China**, 2024
+*   **Deep Space Exploration Scholarship**, 2024
+*   **USTC-Suzhou Industrial Park Scholarship** & **First Class Scholarship of USTC**, 2023
+*   **Outstanding Graduate of NWPU**, 2022
+*   **CATIC Scholarship** (Top 1% scholarship for graduates) & **First Class Scholarship of NWPU**, 2021
+*   **Wuyajun Scholarship** & **First Class Scholarship of NWPU**, 2019, 2020
+
+## Academic Services
+
+*   **Conference Reviewer**: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA, 3DV
+*   **Journal Reviewer**: IJCV, IEEE TCSVT, IEEE TMM
 
 ## Posts
 
-- VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
-- Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf)
- [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
-
-## Others
-
-- Reviewer: ICRA 2023, ICLR 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, 3DV 2026, IJCV 2025
-
-
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script> -->
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM'></script> -->
+*   VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
+*   Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf) [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
 
 <div style="text-align: center;">
   <br>
-  <!-- <div id="lastModified" style="margin-top: 20px; font-size: 12px; color: #7f8c8d;">Last Modified: Jun 10, 2025
-  </div>
-  <hr style="border: 0; border-top: 2px solid #ecf0f1; width: 80%; margin: 10px auto;"> -->
-
-  <!-- Title -->
-  <!-- <h3 style="color: #7f8c8d; font-size: 16px; margin-bottom: 10px;">Visitor Map</h3> -->
-  <!-- Visitor Map Component -->
-
   <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
   </div>
