@@ -41,7 +41,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 *   May 2025 - Present: Research Intern, Tencent ARC Lab
 *   Aug. 2024 - Mar. 2025: Research Intern, Shanghai AI Lab
 *   Sept. 2022 - Jun. 2025: M.S. Student, USTC
-*   Sept. 2018 - July 2022: Undergraduate Student, Honors College, **NWPU**
+*   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
   <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 80px; width: auto;"></a>
