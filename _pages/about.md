@@ -63,7 +63,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2025-arxiv-meshsplat.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</a>
+      <a href="https://hanzhichang.github.io/meshsplat_web/"><b>MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</b></a>
       <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
       <br> AAAI 2026
       <br> 
@@ -78,7 +78,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a>
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/"><b>ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</b></a>
       <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
       <br> ICCV 2025
       <br> 
@@ -93,7 +93,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2024-nips-motiongs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page"><b>MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</b></a>
       <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
       <br> NeurIPS 2024
       <br> 
@@ -109,7 +109,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2024-nips-dn4dgs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://arxiv.org/abs/2410.13607">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a>
+      <a href="https://arxiv.org/abs/2410.13607"><b>DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</b></a>
       <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
       <br> NeurIPS 2024
       <br> 
@@ -123,7 +123,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
+      <a href="https://github.com/RuijieZhu94/TI-Face"><b>TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</b></a>
       <br><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang
       <br> ICCVW 2023 (1st Place in VSCHH Challenge)
       <br> 
@@ -144,7 +144,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2025-arxiv-depthmaster.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</a>
+      <a href="https://indu1ge.github.io/DepthMaster_page/"><b>DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</b></a>
       <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
       <br> <em>arXiv preprint</em>, 2024
       <br> 
@@ -160,7 +160,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2024-arxiv-plane2depth.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/Plane2Depth">Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</a>
+      <a href="https://ruijiezhu94.github.io/Plane2Depth"><b>Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</b></a>
       <br>Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang
       <br> IEEE TCSVT 2024
       <br> 
@@ -175,7 +175,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2024-arxiv-ScaleDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a>
+      <a href="https://ruijiezhu94.github.io/ScaleDepth"><b>ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</b></a>
       <br><b>Ruijie Zhu</b>, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang
       <br> <em>arXiv preprint</em>, 2024
       <br> 
@@ -190,7 +190,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/ERDepth_page/">ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</a>
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/"><b>ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</b></a>
       <br>Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang
       <br> ACM TOMM 2025
       <br> 
@@ -205,7 +205,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2023-tcsvt-HABins.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</a>
+      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/"><b>HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</b></a>
       <br><b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang
       <br> IEEE TCSVT 2023
       <br> 
@@ -225,7 +225,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a>
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI"><b>MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</b></a>
       <br>Poster session: East Exhibit Hall A-C #1203
       <br>NeurIPS 2024, Vancouver
     </td>
@@ -236,7 +236,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://youtu.be/QRuVvtpoeVM">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a>
+      <a href="https://youtu.be/QRuVvtpoeVM"><b>TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</b></a>
       <br>"To NeRF or not to NeRF" Workshop
       <br>ICCV 2023, Paris
     </td>
@@ -247,7 +247,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2023-icraw-IRUDepth.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</a>
+      <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767"><b>IRUDepth: Improve Robustness and Uncertainty of Self-Supervised Monocular Depth Estimation</b></a>
       <br>"RoboDepth" Workshop
       <br>ICRA 2023, London
     </td>
@@ -258,7 +258,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2022-eccvw-MixBins.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href="https://youtu.be/8ZwiSUYNJiI">MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</a>
+      <a href="https://youtu.be/8ZwiSUYNJiI"><b>MixBins: Group-wise Bins for Robust Monocular Depth Estimation via Mixing Datasets</b></a>
       <br>"Robust Vision Challenge" Workshop
       <br>ECCV 2022, Tel Aviv
     </td>
