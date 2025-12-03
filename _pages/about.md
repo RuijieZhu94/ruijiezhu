@@ -51,6 +51,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 </div>
 
 ## Publications
+
 <small>
 \* denotes equal contribution. Full list available on <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
 </small>
@@ -69,7 +70,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> AAAI 2026
       <br> 
       <a href="http://arxiv.org/abs/2508.17811">[Paper]</a>
-      <a href="https://hanzhichang.github.io/meshsplat_web/">[Webpage]</a>
+      <a href="https://hanzhichang.github.io/meshsplat_web/">[Project Page]</a>
       <a href="https://github.com/HanzhiChang/MeshSplat">[Code]</a>
     </td>
   </tr>
@@ -84,7 +85,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> ICCV 2025
       <br> 
       <a href="http://arxiv.org/abs/2507.15454">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">[Project Page]</a>
       <a href="https://github.com/RuijieZhu94/ObjectGS">[Code]</a>
     </td>
   </tr>
@@ -99,7 +100,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> NeurIPS 2024
       <br> 
       <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Project Page]</a>
       <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
       <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a>
     </td>
@@ -150,7 +151,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> <em>arXiv preprint</em>, 2024
       <br> 
       <a href="https://arxiv.org/abs/2501.02576">[Paper]</a>
-      <a href="https://indu1ge.github.io/DepthMaster_page/">[Webpage]</a>
+      <a href="https://indu1ge.github.io/DepthMaster_page/">[Project Page]</a>
       <a href="https://github.com/indu1ge/DepthMaster">[Code]</a>
       <a href="https://huggingface.co/zysong212/DepthMaster">[Model]</a>
     </td>
@@ -166,7 +167,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> IEEE TCSVT 2024
       <br> 
       <a href="https://ieeexplore.ieee.org/document/10711868/">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/plane2depth_page">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/plane2depth_page">[Project Page]</a>
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Plane2Depth">[Code]</a>
     </td>
   </tr>
@@ -181,7 +182,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> <em>arXiv preprint</em>, 2024
       <br> 
       <a href="https://arxiv.org/abs/2407.08187">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ScaleDepth">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/ScaleDepth">[Project Page]</a>
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">[Code]</a>
     </td>
   </tr>
@@ -196,7 +197,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> ACM TOMM 2025
       <br> 
       <a href="http://arxiv.org/abs/2310.08044">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Project]</a>
       <a href="https://github.com/RuijieZhu94/EC-Depth">[Code]</a>
     </td>
   </tr>
@@ -211,7 +212,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br> IEEE TCSVT 2023
       <br> 
       <a href="https://ieeexplore.ieee.org/document/10325550">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">[Webpage]</a>
+      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">[Project Page]</a>
       <a href="https://github.com/RuijieZhu94/HABins">[Code]</a>
     </td>
   </tr>

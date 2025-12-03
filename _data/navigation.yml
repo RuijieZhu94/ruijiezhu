@@ -18,10 +18,10 @@ main:
   - title: "Awards"
     url: /#awards    
   
+  - title: "Academic Services"
+    url: /#academic-services
+
   - title: "Posts"
     url: /#posts
-    
-  - title: "Others"
-    url: /#others
     
 
