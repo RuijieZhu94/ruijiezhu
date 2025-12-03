@@ -51,8 +51,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 </div>
 
 ## Publications
-
+<small>
 \* denotes equal contribution. Full list available on <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
+</small>
 
 ### 3D Gaussian Splatting & Neural Rendering
 
