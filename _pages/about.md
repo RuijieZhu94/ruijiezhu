@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ## Biography
-I am an (incoming) PhD student supervised by Prof. [Chuanxia Zheng](https://physicalvision.github.io/people/~chuanxia) at [Physical Vision Group](https://physicalvision.github.io/), College of Computing and Data Science, Nanyang Technological University, Singapore. Before that, I was fortunate to intern at Tencent ARC Lab and Shanghai AI Lab, working with Dr. [Wenbo Hu](https://wbhu.github.io/), Prof. [Jianfei Cai](https://jianfei-cai.github.io/), Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en), Prof. [Bo Dai](https://daibo.info/), Dr. [Linning Xu](https://eveneveno.github.io/lnxu/), and Dr. [Mulin Yu](https://mulinyu.github.io/).
+I am an (incoming) PhD student supervised by Prof. [Chuanxia Zheng](https://physicalvision.github.io/people/~chuanxia) at [Physical Vision Group](https://physicalvision.github.io/), College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore. Before that, I was fortunate to intern at Tencent ARC Lab and Shanghai AI Lab, working with Dr. [Wenbo Hu](https://wbhu.github.io/), Prof. [Jianfei Cai](https://jianfei-cai.github.io/), Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en), Prof. [Bo Dai](https://daibo.info/), Dr. [Linning Xu](https://eveneveno.github.io/lnxu/), and Dr. [Mulin Yu](https://mulinyu.github.io/).
 
 I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2025, where I was advised by Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
 My research interests lie in 3D Computer Vision, with a particular focus on:
+*   3D/4D World Model
 *   3D Gaussian Splatting & Neural Rendering
 *   Monocular Depth Estimation
-*   3D/4D World Model
 
 ## Recent News
 
@@ -42,7 +42,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 ## Experiences
 *   May 2025 - Dec. 2025: Research Intern, Tencent ARC Lab
 *   Aug. 2024 - Mar. 2025: Research Intern, Shanghai AI Lab
-*   Sept. 2022 - Jun. 2025: M.S. Student, USTC
+*   Sept. 2022 - Jun. 2025: M.S. Student, ,USTC
 *   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
