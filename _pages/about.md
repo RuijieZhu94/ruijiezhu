@@ -9,17 +9,20 @@ redirect_from:
 ---
 
 ## Biography
+I am an (incoming) PhD student supervised by Prof. [Chuanxia Zheng](https://physicalvision.github.io/people/~chuanxia) at [PVG group](https://physicalvision.github.io/), College of Computing and Data Science, NTU, Singapore. Before that, I was fortunate to intern at Tencent ARC Lab and Shanghai AI Lab, working with Dr. [Wenbo Hu](https://wbhu.github.io/), Prof. [Jianfei Cai](https://jianfei-cai.github.io/), Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en), Prof. [Bo Dai](https://daibo.info/), Dr. [Linning Xu](https://eveneveno.github.io/lnxu/), and Dr. [Mulin Yu](https://mulinyu.github.io/).
 
 I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2025, where I was advised by Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
 My research interests lie in 3D Computer Vision, with a particular focus on:
 *   3D Gaussian Splatting & Neural Rendering
 *   Monocular Depth Estimation
+*   3D/4D World Model
 
 ## Recent News
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
+    <li>Dec. 2025: <a href="">SkeletonGaussian</a> was accepted by CVM 2026.</li>
     <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
     <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC! 🎓</li>
@@ -37,8 +40,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 </div>
 
 ## Experiences
-
-*   May 2025 - Present: Research Intern, Tencent ARC Lab
+*   May 2025 - Dec. 2025: Research Intern, Tencent ARC Lab
 *   Aug. 2024 - Mar. 2025: Research Intern, Shanghai AI Lab
 *   Sept. 2022 - Jun. 2025: M.S. Student, USTC
 *   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
@@ -59,6 +61,21 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 ### 3D Gaussian Splatting & Neural Rendering
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-cvm-skeletongaussian.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href=""><b>SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</b></a>
+      <br>Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang
+      <br> CVM 2026
+      <br> 
+      <a href="">[Paper]</a>
+      <a href="">[Project Page]</a>
+      <a href="">[Code]</a>
+    </td>
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
