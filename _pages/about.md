@@ -40,9 +40,10 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 </div>
 
 ## Experiences
+*   Jan 2026 - Present: Ph.D. Student, NTU
 *   May 2025 - Dec. 2025: Research Intern, Tencent ARC Lab
 *   Aug. 2024 - Mar. 2025: Research Intern, Shanghai AI Lab
-*   Sept. 2022 - Jun. 2025: M.S. Student, ,USTC
+*   Sept. 2022 - Jun. 2025: M.S. Student, USTC
 *   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
 
 <div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
@@ -50,6 +51,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
   <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 80px; width: auto;"></a>
   <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
   <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 40px; width: auto;"></a>
+  <a href="https://www.ntu.edu.sg/"><img src="images/logo_NTU.webp" alt="NTU" style="height: 40px; width: auto;"></a>
 </div>
 
 ## Publications
