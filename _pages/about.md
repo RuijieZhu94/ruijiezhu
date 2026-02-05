@@ -22,7 +22,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
-    <li>Dec. 2025: <a href="">SkeletonGaussian</a> was accepted by CVM 2026.</li>
+    <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
     <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
     <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC! 🎓</li>
@@ -69,13 +69,13 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2025-cvm-skeletongaussian.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href=""><b>SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</b></a>
+      <a href="https://wusar.github.io/projects/skeletongaussian/"><b>SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</b></a>
       <br>Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang
       <br> CVM 2026
       <br> 
-      <a href="">[Paper]</a>
-      <a href="">[Project Page]</a>
-      <a href="">[Code]</a>
+      <a href="https://arxiv.org/abs/2602.04271">[Paper]</a>
+      <a href="https://wusar.github.io/projects/skeletongaussian/">[Project Page]</a>
+      <a href="https://github.com/wusar/SkeletonGaussian">[Code]</a>
     </td>
   </tr>
 
