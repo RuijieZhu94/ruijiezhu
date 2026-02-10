@@ -70,6 +70,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
+      <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
       <br> <em>arXiv preprint</em>, 2026
       <br> 
       <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
