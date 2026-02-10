@@ -60,6 +60,28 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 \* denotes equal contribution. Full list available on <a href="https://scholar.google.com/citations?user=6uuAEdkAAAAJ&hl=en">Google Scholar</a>.
 </small>
 
+### 3D/4D World Model
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-arxiv-motioncrafter.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
+      <br> <em>arXiv preprint</em>, 2026
+      <br> 
+      <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
+      <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
+      <a href="https://github.com/TencentARC/MotionCrafter">[Code]</a>
+      <a href="https://huggingface.co/TencentARC/MotionCrafter">[HF Models]</a>
+    </td>
+  </tr>
+
+</table>
+
+
 ### 3D Gaussian Splatting & Neural Rendering
 
 <table style="border-collapse: collapse; border: none;">
