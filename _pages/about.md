@@ -322,7 +322,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 ## Academic Services
 
 *   Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA, 3DV
-*   Journal Reviewer: IJCV, IEEE TCSVT, IEEE TMM
+*   Journal Reviewer: IJCV, IEEE TIP, IEEE TCSVT, IEEE TMM
 
 ## Posts
 
