@@ -22,7 +22,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
-    <li>Feb. 2026: Two papers, <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a>, were accepted by CVPR 2026.</li>
+    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a> were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
     <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
@@ -31,7 +31,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <li>Jun. 2025: Graduated from USTC! 🎓</li>
     <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
     <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
-    <li>Sep. 2024: Two papers, <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a>, were accepted by NeurIPS 2024.</li>
+    <li>Sep. 2024: <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
     <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
     <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
@@ -74,7 +74,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
       <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
-      <br> CVPR, 2026
+      <br> CVPR 2026
       <br> 
       <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
