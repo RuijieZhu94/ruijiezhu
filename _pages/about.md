@@ -22,6 +22,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
+    <li>Feb. 2026: Two papers, <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a>, were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
     <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
@@ -73,7 +74,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
       <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
-      <br> <em>arXiv preprint</em>, 2026
+      <br> CVPR, 2026
       <br> 
       <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
@@ -88,6 +89,21 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 ### 3D Gaussian Splatting & Neural Rendering
 
 <table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-cvpr-reflow.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href=""><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></a>
+      <br>Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang
+      <br> CVPR 2026
+      <br> 
+      <a href="">[Paper]</a>
+      <a href="">[Project Page]</a>
+      <a href="">[Code]</a>
+    </td>
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
