@@ -20,26 +20,26 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ## Recent News
 
-<div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
-  <ul style="padding-left: 20px;">
-    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released and open-sourced.</li>
-    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a> were accepted by CVPR 2026.</li>
-    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
-    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
-    <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
-    <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
-    <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
-    <li>Jun. 2025: Graduated from USTC! 🎓</li>
-    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
-    <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
-    <li>Sep. 2024: <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
-    <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
-    <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
-    <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
-    <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
-    <li>Oct. 2023: Won the 1st Place in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
-    <li>June 2023: Won the 1st Place on RoboDepth (Track 1) and 2nd Place (Track 2) at ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
-    <li>Oct. 2022: Won the 2nd Place on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
+<div class="recent-news">
+  <ul class="recent-news__list">
+    <li><span class="recent-news__date">Mar. 2026:</span> <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released and open-sourced.</li>
+    <li><span class="recent-news__date">Feb. 2026:</span> <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <span class="coming-soon">ReFlow</span> were accepted by CVPR 2026.</li>
+    <li><span class="recent-news__date">Feb. 2026:</span> <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
+    <li><span class="recent-news__date">Feb. 2026:</span> <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
+    <li><span class="recent-news__date">Dec. 2025:</span> <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
+    <li><span class="recent-news__date">Nov. 2025:</span> <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
+    <li><span class="recent-news__date">Jun. 2025:</span> <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
+    <li><span class="recent-news__date">Jun. 2025:</span> Graduated from USTC! 🎓</li>
+    <li><span class="recent-news__date">Jan. 2025:</span> <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
+    <li><span class="recent-news__date">Oct. 2024:</span> <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>
+    <li><span class="recent-news__date">Sep. 2024:</span> <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
+    <li><span class="recent-news__date">Jul. 2024:</span> <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
+    <li><span class="recent-news__date">Dec. 2023:</span> <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
+    <li><span class="recent-news__date">Nov. 2023:</span> <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
+    <li><span class="recent-news__date">Oct. 2023:</span> <a href="https://ruijiezhu94.github.io/ERDepth_page">ER-Depth</a> was released on arXiv.</li>
+    <li><span class="recent-news__date">Oct. 2023:</span> Won the 1st Place in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[Paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a></li>
+    <li><span class="recent-news__date">Jun. 2023:</span> Won the 1st Place on RoboDepth (Track 1) and 2nd Place (Track 2) at ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[Paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[Video]</a></li>
+    <li><span class="recent-news__date">Oct. 2022:</span> Won the 2nd Place on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[Video]</a></li>
   </ul>
 </div>
 
@@ -47,15 +47,15 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 *   Jan 2026 - Present: Ph.D. Student, NTU
 *   May 2025 - Dec. 2025: Research Intern, Tencent ARC Lab
 *   Aug. 2024 - Mar. 2025: Research Intern, Shanghai AI Lab
-*   Sept. 2022 - Jun. 2025: M.S. Student, USTC
-*   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
+*   Sep. 2022 - Jun. 2025: M.S. Student, USTC
+*   Sep. 2018 - Jul. 2022: Undergraduate Student, Honors College, NWPU
 
-<div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
-  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 80px; width: auto;"></a>
-  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 80px; width: auto;"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
-  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 40px; width: auto;"></a>
-  <a href="https://www.ntu.edu.sg/"><img src="images/logo_NTU.webp" alt="NTU" style="height: 40px; width: auto;"></a>
+<div class="affiliation-logos">
+  <a href="https://en.nwpu.edu.cn/"><img class="affiliation-logo affiliation-logo--medium" src="images/logo_NWPU.png" alt="NWPU"></a>
+  <a href="https://en.ustc.edu.cn/"><img class="affiliation-logo affiliation-logo--medium" src="images/logo_USTC.png" alt="USTC"></a>
+  <a href="https://www.shlab.org.cn/"><img class="affiliation-logo affiliation-logo--large" src="images/logo_AILab.jpeg" alt="Shanghai AILab"></a>
+  <a href="https://arc.tencent.com/en/index"><img class="affiliation-logo affiliation-logo--small" src="images/logo_ARCLab.png" alt="Tencent ARCLab"></a>
+  <a href="https://www.ntu.edu.sg/"><img class="affiliation-logo affiliation-logo--small" src="images/logo_NTU.webp" alt="NTU"></a>
 </div>
 
 ## Publications
@@ -66,7 +66,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ### 3D/4D World Model
 
-<table style="border-collapse: collapse; border: none;">
+<table class="about-table">
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -86,7 +86,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 </table>
 
-<table style="border-collapse: collapse; border: none;">
+<table class="about-table">
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -109,20 +109,20 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ### 3D Gaussian Splatting & Neural Rendering
 
-<table style="border-collapse: collapse; border: none;">
+<table class="about-table">
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2026-cvpr-reflow.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href=""><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></a>
+      <span class="coming-soon-title"><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></span>
       <br>Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang
       <br> CVPR 2026
       <br> 
-      <a href="">[Paper]</a>
-      <a href="">[Project Page]</a>
-      <a href="">[Code]</a>
+      <span class="resource-pill resource-pill--muted">[Paper]</span>
+      <span class="resource-pill resource-pill--muted">[Project Page]</span>
+      <span class="resource-pill resource-pill--muted">[Code]</span>
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ### Monocular Depth Estimation
 
-<table style="border-collapse: collapse; border: none;">
+<table class="about-table">
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -302,7 +302,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ## Talks
 
-<table style="border-collapse: collapse; border: none;">
+<table class="about-table">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
@@ -367,9 +367,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 *   VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
 *   Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf) [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
 
-<div style="text-align: center;">
+<div class="visitor-map">
   <br>
-  <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px;">
+  <div id="clustr_globe_container" class="visitor-map__globe">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
   </div>
 </div>
