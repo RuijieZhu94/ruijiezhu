@@ -22,6 +22,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
+    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released and open-sourced.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a> were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
@@ -64,6 +65,26 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 </small>
 
 ### 3D/4D World Model
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-arxiv-Track4World.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://jiah-cloud.github.io/Track4World.github.io/"><b>Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels</b></a>
+      <br>Jiahao Lu, Jiayi Xu, Wenbo Hu, <b>Ruijie Zhu</b>, Chengfeng Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu
+      <br> <em>arXiv preprint</em>, 2026
+      <br> 
+      <a href="https://arxiv.org/abs/2603.02573">[Paper]</a>
+      <a href="https://jiah-cloud.github.io/Track4World.github.io/">[Project Page]</a>
+      <a href="https://github.com/TencentARC/Track4World">[Code]</a>
+      <a href="https://huggingface.co/TencentARC/Track4World">[HF Models]</a>
+    </td>
+  </tr>
+
+</table>
 
 <table style="border-collapse: collapse; border: none;">
 
