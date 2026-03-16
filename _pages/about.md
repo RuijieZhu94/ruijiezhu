@@ -101,6 +101,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
       <a href="https://github.com/TencentARC/MotionCrafter">[Code]</a>
       <a href="https://huggingface.co/TencentARC/MotionCrafter">[HF Models]</a>
+      <a href="https://youtu.be/oc0fRoZTyk8">[Video]</a>
     </td>
   </tr>
 
@@ -303,6 +304,16 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 ## Talks
 
 <table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="_talks/MotionCrafter_CVPR2026.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://youtu.be/oc0fRoZTyk8"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
+      <br>CVPR 2026, Denver
+    </td>
+  </tr>
+
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2024-nips-motiongs-video.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
