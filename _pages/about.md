@@ -22,7 +22,8 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
-    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released and open-sourced.</li>
+    <li>Apr. 2026: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by IEEE TCSVT 2026.</li>
+    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a> were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
@@ -230,7 +231,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://indu1ge.github.io/DepthMaster_page/"><b>DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</b></a>
       <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
-      <br> <em>arXiv preprint</em>, 2024
+      <br> IEEE TCSVT 2026
       <br> 
       <a href="https://arxiv.org/abs/2501.02576">[Paper]</a>
       <a href="https://indu1ge.github.io/DepthMaster_page/">[Project Page]</a>
