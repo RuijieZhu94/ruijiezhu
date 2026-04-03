@@ -24,7 +24,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
   <ul style="padding-left: 20px;">
     <li>Apr. 2026: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released.</li>
-    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="">ReFlow</a> were accepted by CVPR 2026.</li>
+    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="https://rosetta-leong.github.io/ReFlow_Page/">ReFlow</a> were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
     <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
@@ -118,12 +118,12 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <img src="images/2026-cvpr-reflow.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
-      <a href=""><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></a>
+      <a href="https://rosetta-leong.github.io/ReFlow_Page/"><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></a>
       <br>Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang
       <br> CVPR 2026
       <br> 
-      <a href="">[Paper]</a>
-      <a href="">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2604.01561">[Paper]</a>
+      <a href="https://rosetta-leong.github.io/ReFlow_Page/">[Project Page]</a>
       <a href="">[Code]</a>
     </td>
   </tr>
