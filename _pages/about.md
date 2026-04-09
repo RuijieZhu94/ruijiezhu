@@ -22,6 +22,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
+    <li>Apr. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was selected as a CVPR 2026 Highlight🔥 paper.</li>
     <li>Apr. 2026: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by IEEE TCSVT 2026.</li>
     <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="https://rosetta-leong.github.io/ReFlow_Page/">ReFlow</a> were accepted by CVPR 2026.</li>
@@ -96,7 +97,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
       <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
-      <br> CVPR 2026
+      <br> CVPR 2026 (Highlight🔥)
       <br> 
       <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
