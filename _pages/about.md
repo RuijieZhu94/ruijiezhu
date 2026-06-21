@@ -22,24 +22,20 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
   <ul style="padding-left: 20px;">
+    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was accepted by ECCV 2026.</li>
     <li>Jun. 2026: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVMJ.</li>
     <li>Apr. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was selected as a CVPR 2026 Highlight🔥 paper.</li>
     <li>Apr. 2026: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was accepted by IEEE TCSVT.</li>
-    <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was released.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> and <a href="https://rosetta-leong.github.io/ReFlow_Page/">ReFlow</a> were accepted by CVPR 2026.</li>
     <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was accepted by IEEE TCSVT.</li>
-    <li>Feb. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was released and open-sourced.</li>
     <li>Dec. 2025: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVM 2026.</li>
     <li>Nov. 2025: <a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat</a> was accepted by AAAI 2026.</li>
+    <li>Oct. 2025: <a href="https://ruijiezhu94.github.io/ERDepth_page">ER-Depth</a> was accepted by IEEE TOMM.</li>
     <li>Jun. 2025: <a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS</a> was accepted by ICCV 2025.</li>
     <li>Jun. 2025: Graduated from USTC! 🎓</li>
-    <li>Jan. 2025: <a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster</a> was released on arXiv.</li>
     <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
     <li>Sep. 2024: <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
-    <li>Jul. 2024: <a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth</a> was released on arXiv.</li>
-    <li>Dec. 2023: <a href="https://arxiv.org/abs/2312.09527">TI-Face</a> was released on arXiv.</li>
     <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
-    <li>Oct. 2023: <a href="https://ruijiezhu94.github.io/ERDepth_page">EC-Depth</a> was released on arXiv.</li>
     <li>Oct. 2023: Won the 1st Place in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
     <li>June 2023: Won the 1st Place on RoboDepth (Track 1) and 2nd Place (Track 2) at ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
     <li>Oct. 2022: Won the 2nd Place on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
@@ -78,7 +74,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://jiah-cloud.github.io/Track4World.github.io/"><b>Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels</b></a>
       <br>Jiahao Lu, Jiayi Xu, Wenbo Hu, <b>Ruijie Zhu</b>, Chengfeng Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu
-      <br> <em>arXiv preprint</em>, 2026
+      <br> ECCV, 2026
       <br> 
       <a href="https://arxiv.org/abs/2603.02573">[Paper]</a>
       <a href="https://jiah-cloud.github.io/Track4World.github.io/">[Project Page]</a>
