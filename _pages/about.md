@@ -15,6 +15,12 @@ I am a first-year Ph.D. student supervised by Prof. [Chuanxia Zheng](https://phy
 
 I obtained my Master's degree from the University of Science and Technology of China (USTC) in 2025, where I was advised by Prof. [Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl) and Prof. [Tianzhu Zhang](http://staff.ustc.edu.cn/~tzzhang/). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Northwestern Polytechnical University (NWPU) in 2022, under the guidance of Prof. [Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl).
 
+
+My research interests lie in 3D Computer Vision, with a particular focus on:
+*   3D/4D World Model
+*   3D Gaussian Splatting & Neural Rendering
+*   Monocular Depth Estimation
+
 <details class="collaboration-note">
   <summary><i class="fas fa-fw fa-comments" aria-hidden="true"></i> If you want to work with me&hellip;</summary>
   <div class="collaboration-note__content">
@@ -22,11 +28,6 @@ I obtained my Master's degree from the University of Science and Technology of C
     <p>I have had the pleasure of working with junior collaborators including Yanzhe Liang (now a PhD candidate at PolyU; <em>MotionGS</em>, NeurIPS 2024; <em>ReFlow</em>, CVPR 2026), Hanzhi Chang (now at Huawei; <em>MeshSplat</em>, AAAI 2026), and Lifan Wu (now at ByteDance; <em>SkeletonGaussian</em>, CVM 2026).</p>
   </div>
 </details>
-
-My research interests lie in 3D Computer Vision, with a particular focus on:
-*   3D/4D World Model
-*   3D Gaussian Splatting & Neural Rendering
-*   Monocular Depth Estimation
 
 ## Recent News
 
