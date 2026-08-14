@@ -152,15 +152,27 @@
 
     .visitor-map {
       display: flex;
+      clear: both;
+      width: 100%;
       justify-content: center;
       margin-top: 1.1em;
       padding-top: 1.1em;
       border-top: 1px solid var(--academic-rule);
 
       #clustr_globe_container {
-        display: inline-block;
-        width: 150px;
+        display: block;
+        width: 100%;
+        max-width: 150px;
         height: 150px;
+        overflow: visible;
+        text-align: center;
+
+        canvas,
+        iframe,
+        img {
+          max-width: 100% !important;
+          height: auto !important;
+        }
       }
     }
   }
@@ -327,10 +339,10 @@
     img {
       display: block;
       width: 100%;
+      height: auto;
       border: 1px solid #edf1f3;
       border-radius: 5px;
-      aspect-ratio: 16 / 10;
-      object-fit: cover;
+      object-fit: contain;
     }
 
     b { color: var(--academic-ink); }
@@ -383,7 +395,7 @@
       &:first-child { width: 100% !important; padding: 0.9em 0.9em 0 !important; }
     }
 
-    .page__content table img { max-height: 210px; }
+    .page__content table img { max-height: none; }
   }
 
   @media (prefers-reduced-motion: reduce) {
