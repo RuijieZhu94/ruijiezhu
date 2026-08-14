@@ -141,6 +141,17 @@
         text-align: center;
       }
 
+      .author__x-icon {
+        display: inline-flex;
+        width: 1.45rem;
+        align-items: center;
+        justify-content: center;
+        color: var(--academic-accent);
+        font-size: 0.78rem;
+        font-weight: 800;
+        line-height: 1;
+      }
+
       &:hover {
         color: var(--academic-accent);
         background: var(--academic-accent-soft);

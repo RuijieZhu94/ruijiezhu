@@ -47,9 +47,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <li>Oct. 2024: <a href="https://ruijiezhu94.github.io/plane2depth_page/">Plane2Depth</a> was accepted by IEEE TCSVT.</li>  
     <li>Sep. 2024: <a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS</a> and <a href="https://arxiv.org/abs/2410.13607">DN-4DGS</a> were accepted by NeurIPS 2024.</li>
     <li>Nov. 2023: <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023">HA-Bins</a> was accepted by IEEE TCSVT.</li>
-    <li>Oct. 2023: Won the 1st Place in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>. <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf">[paper]</a> <a href="https://youtu.be/QRuVvtpoeVM">[video]</a></li>
-    <li>June 2023: Won the 1st Place on RoboDepth (Track 1) and 2nd Place (Track 2) at ICRA 2023. <a href="https://arxiv.org/pdf/2307.15061">[paper]</a> <a href="https://youtu.be/C97J5SDXmZc?list=PLxxrIfcH-qBGZ6x_e1AT2_YnAxiHIKtkB&t=2767">[video]</a></li>
-    <li>Oct. 2022: Won the 2nd Place on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>. <a href="https://youtu.be/8ZwiSUYNJiI">[video]</a></li>
+    <li>Oct. 2023: Won the 1st Place in ICCV 2023 workshop: <a href="https://sites.google.com/view/vschh/home">To NeRF or not to NeRF</a>.</li>
+    <li>June 2023: Won the 1st Place on RoboDepth (Track 1) and 2nd Place (Track 2) at ICRA 2023.</li>
+    <li>Oct. 2022: Won the 2nd Place on Monocular Depth Estimation leaderboard in ECCV 2022 workshop: <a href="http://www.robustvision.net/leaderboard.php?benchmark=depth">Robust Vision Challenge 2022</a>.</li>
   </ul>
 </div>
 
@@ -87,10 +87,10 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Jiahao Lu, Jiayi Xu, Wenbo Hu, <b>Ruijie Zhu</b>, Chengfeng Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu
       <br> ECCV, 2026
       <br> 
-      <a href="https://arxiv.org/abs/2603.02573">[Paper]</a>
-      <a href="https://jiah-cloud.github.io/Track4World.github.io/">[Project Page]</a>
-      <a href="https://github.com/TencentARC/Track4World">[Code]</a>
-      <a href="https://huggingface.co/TencentARC/Track4World">[HF Models]</a>
+      <a href="https://arxiv.org/abs/2603.02573">Paper</a>
+      <a href="https://jiah-cloud.github.io/Track4World.github.io/">Project Page</a>
+      <a href="https://github.com/TencentARC/Track4World">Code</a>
+      <a href="https://huggingface.co/TencentARC/Track4World">HF Models</a>
     </td>
   </tr>
 
@@ -107,11 +107,11 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
       <br> CVPR 2026 (Highlight🔥)
       <br> 
-      <a href="http://arxiv.org/abs/2602.08961">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">[Project Page]</a>
-      <a href="https://github.com/TencentARC/MotionCrafter">[Code]</a>
-      <a href="https://huggingface.co/TencentARC/MotionCrafter">[HF Models]</a>
-      <a href="https://youtu.be/oc0fRoZTyk8">[Video]</a>
+      <a href="http://arxiv.org/abs/2602.08961">Paper</a>
+      <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">Project Page</a>
+      <a href="https://github.com/TencentARC/MotionCrafter">Code</a>
+      <a href="https://huggingface.co/TencentARC/MotionCrafter">HF Models</a>
+      <a href="https://youtu.be/oc0fRoZTyk8">Video</a>
     </td>
   </tr>
 
@@ -131,9 +131,8 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang
       <br> CVPR 2026
       <br> 
-      <a href="https://arxiv.org/abs/2604.01561">[Paper]</a>
-      <a href="https://rosetta-leong.github.io/ReFlow_Page/">[Project Page]</a>
-      <a href="">[Code]</a>
+      <a href="https://arxiv.org/abs/2604.01561">Paper</a>
+      <a href="https://rosetta-leong.github.io/ReFlow_Page/">Project Page</a>
     </td>
   </tr>
 
@@ -146,9 +145,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang
       <br> CVM 2026
       <br> 
-      <a href="https://arxiv.org/abs/2602.04271">[Paper]</a>
-      <a href="https://wusar.github.io/projects/skeletongaussian/">[Project Page]</a>
-      <a href="https://github.com/wusar/SkeletonGaussian">[Code]</a>
+      <a href="https://arxiv.org/abs/2602.04271">Paper</a>
+      <a href="https://wusar.github.io/projects/skeletongaussian/">Project Page</a>
+      <a href="https://github.com/wusar/SkeletonGaussian">Code</a>
     </td>
   </tr>
 
@@ -161,9 +160,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
       <br> AAAI 2026
       <br> 
-      <a href="http://arxiv.org/abs/2508.17811">[Paper]</a>
-      <a href="https://hanzhichang.github.io/meshsplat_web/">[Project Page]</a>
-      <a href="https://github.com/HanzhiChang/MeshSplat">[Code]</a>
+      <a href="http://arxiv.org/abs/2508.17811">Paper</a>
+      <a href="https://hanzhichang.github.io/meshsplat_web/">Project Page</a>
+      <a href="https://github.com/HanzhiChang/MeshSplat">Code</a>
     </td>
   </tr>
 
@@ -176,9 +175,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
       <br> ICCV 2025
       <br> 
-      <a href="http://arxiv.org/abs/2507.15454">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">[Project Page]</a>
-      <a href="https://github.com/RuijieZhu94/ObjectGS">[Code]</a>
+      <a href="http://arxiv.org/abs/2507.15454">Paper</a>
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/">Project Page</a>
+      <a href="https://github.com/RuijieZhu94/ObjectGS">Code</a>
     </td>
   </tr>
 
@@ -191,10 +190,10 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
       <br> NeurIPS 2024
       <br> 
-      <a href="https://arxiv.org/abs/2410.07707">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/MotionGS_page">[Project Page]</a>
-      <a href="https://github.com/RuijieZhu94/MotionGS">[Code]</a>
-      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">[Video]</a>
+      <a href="https://arxiv.org/abs/2410.07707">Paper</a>
+      <a href="https://ruijiezhu94.github.io/MotionGS_page">Project Page</a>
+      <a href="https://github.com/RuijieZhu94/MotionGS">Code</a>
+      <a href="https://www.youtube.com/watch?v=25DgViuuKFI">Video</a>
     </td>
   </tr>
 
@@ -207,8 +206,8 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
       <br> NeurIPS 2024
       <br> 
-      <a href="https://arxiv.org/abs/2410.13607">[Paper]</a>
-      <a href="https://github.com/peoplelu/DN-4DGS">[Code]</a>
+      <a href="https://arxiv.org/abs/2410.13607">Paper</a>
+      <a href="https://github.com/peoplelu/DN-4DGS">Code</a>
     </td>
   </tr>
 
@@ -221,9 +220,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang
       <br> ICCVW 2023 (1st Place in VSCHH Challenge)
       <br> 
-      <a href="https://arxiv.org/abs/2312.09527">[Paper]</a>
-      <a href="https://youtu.be/QRuVvtpoeVM">[Video]</a>
-      <a href="https://github.com/RuijieZhu94/TI-Face">[Code]</a>
+      <a href="https://arxiv.org/abs/2312.09527">Paper</a>
+      <a href="https://youtu.be/QRuVvtpoeVM">Video</a>
+      <a href="https://github.com/RuijieZhu94/TI-Face">Code</a>
     </td>
   </tr>
 
@@ -242,10 +241,10 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
       <br> IEEE TCSVT 2026
       <br> 
-      <a href="https://arxiv.org/abs/2501.02576">[Paper]</a>
-      <a href="https://indu1ge.github.io/DepthMaster_page/">[Project Page]</a>
-      <a href="https://github.com/indu1ge/DepthMaster">[Code]</a>
-      <a href="https://huggingface.co/zysong212/DepthMaster">[Model]</a>
+      <a href="https://arxiv.org/abs/2501.02576">Paper</a>
+      <a href="https://indu1ge.github.io/DepthMaster_page/">Project Page</a>
+      <a href="https://github.com/indu1ge/DepthMaster">Code</a>
+      <a href="https://huggingface.co/zysong212/DepthMaster">Model</a>
     </td>
   </tr>
 
@@ -258,9 +257,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang
       <br> IEEE TCSVT 2024
       <br> 
-      <a href="https://ieeexplore.ieee.org/document/10711868/">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/plane2depth_page">[Project Page]</a>
-      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Plane2Depth">[Code]</a>
+      <a href="https://ieeexplore.ieee.org/document/10711868/">Paper</a>
+      <a href="https://ruijiezhu94.github.io/plane2depth_page">Project Page</a>
+      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Plane2Depth">Code</a>
     </td>
   </tr>
 
@@ -273,9 +272,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu</b>, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang
       <br> IEEE TCSVT 2026
       <br> 
-      <a href="https://arxiv.org/abs/2407.08187">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ScaleDepth">[Project Page]</a>
-      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">[Code]</a>
+      <a href="https://arxiv.org/abs/2407.08187">Paper</a>
+      <a href="https://ruijiezhu94.github.io/ScaleDepth">Project Page</a>
+      <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">Code</a>
     </td>
   </tr>
 
@@ -288,9 +287,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br>Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang
       <br> ACM TOMM 2025
       <br> 
-      <a href="http://arxiv.org/abs/2310.08044">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/ERDepth_page/">[Project]</a>
-      <a href="https://github.com/RuijieZhu94/EC-Depth">[Code]</a>
+      <a href="http://arxiv.org/abs/2310.08044">Paper</a>
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/">Project</a>
+      <a href="https://github.com/RuijieZhu94/EC-Depth">Code</a>
     </td>
   </tr>
 
@@ -303,9 +302,9 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
       <br><b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang
       <br> IEEE TCSVT 2023
       <br> 
-      <a href="https://ieeexplore.ieee.org/document/10325550">[Paper]</a>
-      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">[Project Page]</a>
-      <a href="https://github.com/RuijieZhu94/HABins">[Code]</a>
+      <a href="https://ieeexplore.ieee.org/document/10325550">Paper</a>
+      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">Project Page</a>
+      <a href="https://github.com/RuijieZhu94/HABins">Code</a>
     </td>
   </tr>
 
