@@ -3,6 +3,8 @@ permalink: /
 title: "Ruijie Zhu 朱睿杰"
 excerpt: "About me"
 author_profile: true
+classes:
+  - academic-home
 redirect_from: 
   - /about/
   - /about.html
@@ -20,8 +22,8 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ## Recent News
 
-<div style="border: 1px solid #ddd; padding: 10px; height: 220px; overflow-y: scroll; border-radius: 5px; background-color: #f9f9f9;">
-  <ul style="padding-left: 20px;">
+<div class="news-panel" tabindex="0" aria-label="Recent news, scroll for more">
+  <ul class="news-list">
     <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was accepted by ECCV 2026.</li>
     <li>Jun. 2026: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVMJ.</li>
     <li>Apr. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was selected as a CVPR 2026 Highlight🔥 paper.</li>
@@ -49,12 +51,12 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 *   Sept. 2022 - Jun. 2025: M.S. Student, USTC
 *   Sept. 2018 - July 2022: Undergraduate Student, Honors College, NWPU
 
-<div class="logo" style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
-  <a href="https://en.nwpu.edu.cn/"><img src="images/logo_NWPU.png" alt="NWPU" style="height: 80px; width: auto;"></a>
-  <a href="https://en.ustc.edu.cn/"><img src="images/logo_USTC.png" alt="USTC" style="height: 80px; width: auto;"></a>
-  <a href="https://www.shlab.org.cn/"><img src="images/logo_AILab.jpeg" alt="Shanghai AILab" style="height: 100px; width: auto;"></a>
-  <a href="https://arc.tencent.com/en/index"><img src="images/logo_ARCLab.png" alt="Tencent ARCLab" style="height: 40px; width: auto;"></a>
-  <a href="https://www.ntu.edu.sg/"><img src="images/logo_NTU.webp" alt="NTU" style="height: 40px; width: auto;"></a>
+<div class="institution-logos" aria-label="Affiliated institutions">
+  <a href="https://en.nwpu.edu.cn/" title="Northwestern Polytechnical University"><img src="images/logo_NWPU.png" alt="NWPU"></a>
+  <a href="https://en.ustc.edu.cn/" title="University of Science and Technology of China"><img src="images/logo_USTC.png" alt="USTC"></a>
+  <a href="https://www.shlab.org.cn/" title="Shanghai AI Laboratory"><img src="images/logo_AILab.jpeg" alt="Shanghai AI Lab"></a>
+  <a href="https://arc.tencent.com/en/index" title="Tencent ARC Lab"><img src="images/logo_ARCLab.png" alt="Tencent ARC Lab"></a>
+  <a href="https://www.ntu.edu.sg/" title="Nanyang Technological University"><img src="images/logo_NTU.webp" alt="NTU"></a>
 </div>
 
 ## Publications
