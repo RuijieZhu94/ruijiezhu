@@ -386,10 +386,3 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 *   VALSE•2021 meeting record. [[Yuque]](https://www.yuque.com/docs/share/99290803-dfd7-4343-9ee6-0887f10bcec0?#) [[Zhihu]](https://zhuanlan.zhihu.com/p/422911676)
 *   Course Notes of Statistical Learning course in USTC. [[Git repo]](https://github.com/RuijieZhu94/StatisticalLearning_USTC) [[Zhihu]](https://www.zhihu.com/question/49386395/answer/3121492954) [[PDF]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/outline.pdf) [[Abstract]](https://github.com/RuijieZhu94/StatisticalLearning_USTC/releases/download/v1.0/cheatsheet.pdf)
-
-<div style="text-align: center;">
-  <br>
-  <div id="clustr_globe_container" style="display: inline-block; width: 150px; height: 150px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX_iyI0zlBx07-CIFxMa5gP8MwYnoZjUFm6acc6v2DM"></script>
-  </div>
-</div>
