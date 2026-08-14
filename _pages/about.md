@@ -143,7 +143,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://wusar.github.io/projects/skeletongaussian/"><b>SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</b></a>
       <br>Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang
-      <br> CVM 2026
+      <br> CVM 2026 & CVMJ
       <br> 
       <a href="https://arxiv.org/abs/2602.04271">Paper</a>
       <a href="https://wusar.github.io/projects/skeletongaussian/">Project Page</a>

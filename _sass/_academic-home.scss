@@ -115,8 +115,7 @@
         display: grid;
         grid-template-columns: 1.45rem minmax(0, 1fr);
         align-items: center;
-        min-height: 2rem;
-        padding: 0.2em 0.65em;
+        padding: 0.32em 0.65em;
 
         i {
           width: 1.45rem;
@@ -131,6 +130,7 @@
       grid-template-columns: 1.45rem minmax(0, 1fr);
       align-items: center;
       width: 100%;
+      margin-bottom: 0;
       padding: 0.32em 0.65em;
       font-size: inherit;
       transition: color 150ms ease, background-color 150ms ease;
