@@ -371,6 +371,11 @@
       vertical-align: middle;
     }
 
+    .venue-badge--highlight {
+      color: #875514;
+      background: #fff2d9;
+    }
+
     /* The first link is the paper title; subsequent links are resources. */
     td > a:not(:first-of-type) {
       display: inline-flex;
