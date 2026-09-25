@@ -85,7 +85,16 @@
   }
 
   .sidebar {
+    --author-icon-width: 1.45rem;
+    --author-row-inset: 0.5rem;
+
     color: var(--academic-muted);
+
+    .author__content {
+      @include breakpoint($large) {
+        padding-left: calc(var(--author-row-inset) + var(--author-icon-width));
+      }
+    }
 
     .author__avatar img {
       padding: 4px;
@@ -113,12 +122,12 @@
 
       .author__meta-item {
         display: grid;
-        grid-template-columns: 1.45rem minmax(0, 1fr);
+        grid-template-columns: var(--author-icon-width) minmax(0, 1fr);
         align-items: center;
-        padding: 0.32em 0.65em;
+        padding: 0.32em var(--author-row-inset);
 
         i {
-          width: 1.45rem;
+          width: var(--author-icon-width);
           margin: 0;
           text-align: center;
         }
@@ -127,16 +136,16 @@
 
     .author__urls a {
       display: grid;
-      grid-template-columns: 1.45rem minmax(0, 1fr);
+      grid-template-columns: var(--author-icon-width) minmax(0, 1fr);
       align-items: center;
       width: 100%;
       margin-bottom: 0;
-      padding: 0.32em 0.65em;
+      padding: 0.32em var(--author-row-inset);
       font-size: inherit;
       transition: color 150ms ease, background-color 150ms ease;
 
       i {
-        width: 1.45rem;
+        width: var(--author-icon-width);
         margin: 0;
         text-align: center;
       }
