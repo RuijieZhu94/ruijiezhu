@@ -92,7 +92,9 @@
 
     .author__content {
       @include breakpoint($large) {
-        padding-left: calc(var(--author-row-inset) + var(--author-icon-width));
+        max-width: 175px;
+        padding: 0;
+        text-align: center;
       }
     }
 
@@ -354,6 +356,20 @@
     }
 
     b { color: var(--academic-ink); }
+
+    .venue-badge {
+      display: inline-block;
+      max-width: 100%;
+      margin: 0.45em 0.35em 0.15em 0;
+      padding: 0.22em 0.65em;
+      color: #325d72;
+      border-radius: 4px;
+      background: var(--academic-accent-soft);
+      font-size: 0.78rem;
+      font-weight: 600;
+      line-height: 1.5;
+      vertical-align: middle;
+    }
 
     /* The first link is the paper title; subsequent links are resources. */
     td > a:not(:first-of-type) {
