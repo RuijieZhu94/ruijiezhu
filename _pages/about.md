@@ -77,254 +77,259 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ### 3D/4D World Model
 
-<article class="publication" id="worldprism">
-  <div class="publication__image">
-    <img src="images/2026-nips-worldprism.png" alt="WorldPrism overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title">WorldPrism: 3D Consistency for Video World Models via Bidirectional Cross-Space Verification</h4>
-    <p class="publication__authors"><a href="https://openreview.net/profile?id=~Hengyu_Liu2">Hengyu Liu</a>, <a href="https://openreview.net/profile?id=~Jiahao_Lu5">Jiahao Lu</a>, <a href="https://openreview.net/profile?id=~Ruijie_Zhu2"><b>Ruijie Zhu</b></a>, <a href="https://openreview.net/profile?id=~Sixiao_Zheng1">Sixiao Zheng</a>, <a href="https://openreview.net/profile?id=~Yuan_Liu3">Yuan Liu</a>, <a href="https://openreview.net/profile?id=~Wenbo_Hu2">Wenbo Hu</a>, <a href="https://openreview.net/profile?id=~Ying_Shan2">Ying Shan</a></p>
-    <div class="publication__meta"><span class="publication__venue">NeurIPS 2026</span></div>
-    <div class="publication__links">
-      <!-- TODO: Add href attributes to the resource links when available; remove aria-disabled and title. -->
+<table id="worldprism" style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-nips-worldprism.png" alt="WorldPrism overview" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a><b>WorldPrism: 3D Consistency for Video World Models via Bidirectional Cross-Space Verification</b></a>
+      <br><span><a href="https://openreview.net/profile?id=~Hengyu_Liu2">Hengyu Liu</a>, <a href="https://openreview.net/profile?id=~Jiahao_Lu5">Jiahao Lu</a>, <a href="https://openreview.net/profile?id=~Ruijie_Zhu2"><b>Ruijie Zhu</b></a>, <a href="https://openreview.net/profile?id=~Sixiao_Zheng1">Sixiao Zheng</a>, <a href="https://openreview.net/profile?id=~Yuan_Liu3">Yuan Liu</a>, <a href="https://openreview.net/profile?id=~Wenbo_Hu2">Wenbo Hu</a>, <a href="https://openreview.net/profile?id=~Ying_Shan2">Ying Shan</a></span>
+      <br> NeurIPS 2026
+      <br>
+      <!-- TODO: Add href attributes to the title and resource links when available; remove aria-disabled and title from the resource links. -->
       <a aria-disabled="true" title="Coming soon">Paper</a>
       <a aria-disabled="true" title="Coming soon">Project Page</a>
       <a aria-disabled="true" title="Coming soon">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2026-arxiv-Track4World.png" alt="Track4World overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels</a></h4>
-    <p class="publication__authors">Jiahao Lu, Jiayi Xu, Wenbo Hu, <b>Ruijie Zhu</b>, Chengfeng Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu</p>
-    <div class="publication__meta"><span class="publication__venue">ECCV, 2026</span></div>
-    <div class="publication__links">
+</table>
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-arxiv-Track4World.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://jiah-cloud.github.io/Track4World.github.io/"><b>Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels</b></a>
+      <br>Jiahao Lu, Jiayi Xu, Wenbo Hu, <b>Ruijie Zhu</b>, Chengfeng Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu
+      <br> ECCV, 2026
+      <br>
       <a href="https://arxiv.org/abs/2603.02573">Paper</a>
       <a href="https://jiah-cloud.github.io/Track4World.github.io/">Project Page</a>
       <a href="https://github.com/TencentARC/Track4World">Code</a>
       <a href="https://huggingface.co/TencentARC/Track4World">HF Models</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2026-cvpr-motioncrafter.png" alt="MotionCrafter overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng</p>
-    <div class="publication__meta"><span class="publication__venue">CVPR 2026</span> <span class="publication__distinction">Highlight</span></div>
-    <div class="publication__links">
+</table>
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-cvpr-motioncrafter.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
+      <br><b>Ruijie Zhu</b>, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng
+      <br> CVPR 2026 (Highlight🔥)
+      <br>
       <a href="http://arxiv.org/abs/2602.08961">Paper</a>
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">Project Page</a>
       <a href="https://github.com/TencentARC/MotionCrafter">Code</a>
       <a href="https://huggingface.co/TencentARC/MotionCrafter">HF Models</a>
       <a href="https://youtu.be/oc0fRoZTyk8">Video</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
+
+</table>
 
 
 ### 3D Gaussian Splatting & Neural Rendering
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2026-cvpr-reflow.png" alt="ReFlow overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://rosetta-leong.github.io/ReFlow_Page/">ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</a></h4>
-    <p class="publication__authors">Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">CVPR 2026</span></div>
-    <div class="publication__links">
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-cvpr-reflow.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://rosetta-leong.github.io/ReFlow_Page/"><b>ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction</b></a>
+      <br>Yanzhe Liang, <b>Ruijie Zhu</b>, Hanzhi Chang, Zhuoyuan Li, Jiahao Lu, Tianzhu Zhang
+      <br> CVPR 2026
+      <br>
       <a href="https://arxiv.org/abs/2604.01561">Paper</a>
       <a href="https://rosetta-leong.github.io/ReFlow_Page/">Project Page</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2025-cvm-skeletongaussian.png" alt="SkeletonGaussian overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</a></h4>
-    <p class="publication__authors">Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">CVM 2026 & CVMJ</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-cvm-skeletongaussian.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://wusar.github.io/projects/skeletongaussian/"><b>SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization</b></a>
+      <br>Lifan Wu, <b>Ruijie Zhu</b>, Yubo Ai, Tianzhu Zhang
+      <br> CVM 2026 & CVMJ
+      <br>
       <a href="https://arxiv.org/abs/2602.04271">Paper</a>
       <a href="https://wusar.github.io/projects/skeletongaussian/">Project Page</a>
       <a href="https://github.com/wusar/SkeletonGaussian">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2025-arxiv-meshsplat.png" alt="MeshSplat overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://hanzhichang.github.io/meshsplat_web/">MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</a></h4>
-    <p class="publication__authors">Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">AAAI 2026</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-arxiv-meshsplat.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://hanzhichang.github.io/meshsplat_web/"><b>MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting</b></a>
+      <br>Hanzhi Chang*, <b>Ruijie Zhu*</b>, Wenjie Chang, Mulin Yu, Yanzhe Liang, Jiahao Lu, Zhuoyuan Li, Tianzhu Zhang
+      <br> AAAI 2026
+      <br>
       <a href="http://arxiv.org/abs/2508.17811">Paper</a>
       <a href="https://hanzhichang.github.io/meshsplat_web/">Project Page</a>
       <a href="https://github.com/HanzhiChang/MeshSplat">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2025-iccv-objectgs.jpg" alt="ObjectGS overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/ObjectGS_page/">ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai</p>
-    <div class="publication__meta"><span class="publication__venue">ICCV 2025</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-iccv-objectgs.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/ObjectGS_page/"><b>ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting</b></a>
+      <br><b>Ruijie Zhu</b>, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
+      <br> ICCV 2025
+      <br>
       <a href="http://arxiv.org/abs/2507.15454">Paper</a>
       <a href="https://ruijiezhu94.github.io/ObjectGS_page/">Project Page</a>
       <a href="https://github.com/RuijieZhu94/ObjectGS">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2024-nips-motiongs.png" alt="MotionGS overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/MotionGS_page">MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">NeurIPS 2024</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-motiongs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/MotionGS_page"><b>MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting</b></a>
+      <br><b>Ruijie Zhu*</b>, Yanzhe Liang*, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
+      <br> NeurIPS 2024
+      <br>
       <a href="https://arxiv.org/abs/2410.07707">Paper</a>
       <a href="https://ruijiezhu94.github.io/MotionGS_page">Project Page</a>
       <a href="https://github.com/RuijieZhu94/MotionGS">Code</a>
       <a href="https://www.youtube.com/watch?v=25DgViuuKFI">Video</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2024-nips-dn4dgs.png" alt="DN-4DGS overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://arxiv.org/abs/2410.13607">DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</a></h4>
-    <p class="publication__authors">Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou</p>
-    <div class="publication__meta"><span class="publication__venue">NeurIPS 2024</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-nips-dn4dgs.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://arxiv.org/abs/2410.13607"><b>DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering</b></a>
+      <br>Jiahao Lu, Jiacheng Deng, <b>Ruijie Zhu</b>, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
+      <br> NeurIPS 2024
+      <br>
       <a href="https://arxiv.org/abs/2410.13607">Paper</a>
       <a href="https://github.com/peoplelu/DN-4DGS">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2023-iccvw-TI-Face.png" alt="TIFace overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://github.com/RuijieZhu94/TI-Face">TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">ICCVW 2023</span> <span class="publication__distinction">1st Place in VSCHH Challenge</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-iccvw-TI-Face.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://github.com/RuijieZhu94/TI-Face"><b>TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces</b></a>
+      <br><b>Ruijie Zhu</b>, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang
+      <br> ICCVW 2023 (1st Place in VSCHH Challenge)
+      <br>
       <a href="https://arxiv.org/abs/2312.09527">Paper</a>
       <a href="https://youtu.be/QRuVvtpoeVM">Video</a>
       <a href="https://github.com/RuijieZhu94/TI-Face">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
+
+</table>
 
 ### Monocular Depth Estimation
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2025-arxiv-depthmaster.png" alt="DepthMaster overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://indu1ge.github.io/DepthMaster_page/">DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</a></h4>
-    <p class="publication__authors">Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">IEEE TCSVT 2026</span></div>
-    <div class="publication__links">
+<table style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2025-arxiv-depthmaster.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://indu1ge.github.io/DepthMaster_page/"><b>DepthMaster: Taming Diffusion Models for Monocular Depth Estimation</b></a>
+      <br>Ziyang Song*, Zerong Wang*, Bo Li, Hao Zhang, <b>Ruijie Zhu</b>, Li Liu, Peng-Tao Jiang, Tianzhu Zhang
+      <br> IEEE TCSVT 2026
+      <br>
       <a href="https://arxiv.org/abs/2501.02576">Paper</a>
       <a href="https://indu1ge.github.io/DepthMaster_page/">Project Page</a>
       <a href="https://github.com/indu1ge/DepthMaster">Code</a>
       <a href="https://huggingface.co/zysong212/DepthMaster">Model</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2024-arxiv-plane2depth.png" alt="Plane2Depth overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/Plane2Depth">Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</a></h4>
-    <p class="publication__authors">Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">IEEE TCSVT 2024</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-arxiv-plane2depth.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/Plane2Depth"><b>Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation</b></a>
+      <br>Li Liu*, <b>Ruijie Zhu*</b>, Jiacheng Deng, Ziyang Song, Wenfei Yang, Tianzhu Zhang
+      <br> IEEE TCSVT 2024
+      <br>
       <a href="https://ieeexplore.ieee.org/document/10711868/">Paper</a>
       <a href="https://ruijiezhu94.github.io/plane2depth_page">Project Page</a>
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Plane2Depth">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2024-arxiv-ScaleDepth.jpg" alt="ScaleDepth overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu</b>, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">IEEE TCSVT 2026</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2024-arxiv-ScaleDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/ScaleDepth"><b>ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</b></a>
+      <br><b>Ruijie Zhu</b>, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang
+      <br> IEEE TCSVT 2026
+      <br>
       <a href="https://arxiv.org/abs/2407.08187">Paper</a>
       <a href="https://ruijiezhu94.github.io/ScaleDepth">Project Page</a>
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2023-arxiv-ECDepth.jpg" alt="ER-Depth overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/ERDepth_page/">ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</a></h4>
-    <p class="publication__authors">Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">ACM TOMM 2025</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-arxiv-ECDepth.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/ERDepth_page/"><b>ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</b></a>
+      <br>Ziyang Song*, <b>Ruijie Zhu*</b>, Chuxin Wang, Jiacheng Deng, Jianfeng He, Tianzhu Zhang
+      <br> ACM TOMM 2025
+      <br>
       <a href="http://arxiv.org/abs/2310.08044">Paper</a>
       <a href="https://ruijiezhu94.github.io/ERDepth_page/">Project</a>
       <a href="https://github.com/RuijieZhu94/EC-Depth">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
 
-<article class="publication">
-  <div class="publication__image">
-    <img src="images/2023-tcsvt-HABins.jpg" alt="HA-Bins overview" loading="lazy" decoding="async">
-  </div>
-  <div class="publication__body">
-    <h4 class="publication__title"><a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</a></h4>
-    <p class="publication__authors"><b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang</p>
-    <div class="publication__meta"><span class="publication__venue">IEEE TCSVT 2023</span></div>
-    <div class="publication__links">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-tcsvt-HABins.jpg" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/"><b>HA-Bins: Hierarchical Adaptive Bins for Robust Monocular Depth Estimation across Multiple Datasets</b></a>
+      <br><b>Ruijie Zhu</b>, Ziyang Song, Li Liu, Jianfeng He, Tianzhu Zhang, Yongdong Zhang
+      <br> IEEE TCSVT 2023
+      <br>
       <a href="https://ieeexplore.ieee.org/document/10325550">Paper</a>
       <a href="https://ruijiezhu94.github.io/HABins_TCSVT2023/">Project Page</a>
       <a href="https://github.com/RuijieZhu94/HABins">Code</a>
-    </div>
-  </div>
-</article>
+    </td>
+  </tr>
+
+</table>
 
 ## Talks
 

@@ -316,118 +316,7 @@
     }
   }
 
-  .page__content .publication {
-    display: grid;
-    grid-template-columns: minmax(0, 28%) minmax(0, 1fr);
-    gap: 1.35rem;
-    align-items: start;
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--academic-rule);
-    scroll-margin-top: 5rem;
-
-    &__image {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      aspect-ratio: 8 / 5;
-      padding: 0.4rem;
-      overflow: hidden;
-      border: 1px solid #edf1f3;
-      border-radius: 6px;
-      background: #fafbfc;
-
-      img {
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-      }
-    }
-
-    &__body { min-width: 0; }
-
-    &__title {
-      margin: 0 0 0.5rem;
-      color: var(--academic-ink);
-      font-size: 1rem;
-      font-weight: 650;
-      line-height: 1.45;
-      overflow-wrap: anywhere;
-
-      a {
-        color: inherit;
-
-        &:hover { color: var(--academic-accent); }
-      }
-    }
-
-    &__authors {
-      margin: 0 0 0.65rem;
-      color: var(--academic-muted);
-      font-size: 0.84rem;
-      line-height: 1.65;
-
-      a { color: inherit; }
-      b { color: var(--academic-ink); font-weight: 600; }
-    }
-
-    &__meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-      margin-bottom: 0.55rem;
-    }
-
-    &__venue,
-    &__distinction {
-      display: inline-block;
-      padding: 0.22em 0.65em;
-      border-radius: 4px;
-      font-size: 0.73rem;
-      font-weight: 600;
-      line-height: 1.5;
-    }
-
-    &__venue {
-      color: #325d72;
-      background: var(--academic-accent-soft);
-    }
-
-    &__distinction {
-      color: #875514;
-      background: #fff2d9;
-    }
-
-    &__links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.15rem 1rem;
-
-      a {
-        display: inline-flex;
-        align-items: center;
-        min-height: 1.8rem;
-        font-size: 0.78rem;
-        font-weight: 600;
-
-        &[href]:hover { text-decoration: underline; }
-
-        &[aria-disabled="true"] {
-          color: var(--academic-muted);
-          cursor: default;
-          text-decoration: none;
-        }
-      }
-    }
-
-    a:focus-visible {
-      border-radius: 2px;
-      outline: 2px solid var(--academic-accent);
-      outline-offset: 3px;
-    }
-  }
-
-  /* Talk entries retain their table layout. */
+  /* Publication and talk entries use semantic tables in the source. */
   .page__content table {
     display: table;
     width: 100%;
@@ -502,15 +391,6 @@
     #main { margin-top: 1.6em; }
     .page__content h2 { margin-top: 2.2em; }
     .institution-logos { grid-template-columns: repeat(3, 1fr); }
-
-    .page__content .publication {
-      grid-template-columns: minmax(0, 1fr);
-      gap: 1rem;
-      padding: 1.35rem 0;
-
-      &__image { width: 100%; max-width: 420px; }
-      &__links a { min-height: 44px; }
-    }
 
     .page__content table,
     .page__content tbody,
