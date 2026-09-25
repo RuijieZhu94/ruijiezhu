@@ -33,6 +33,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 <div class="news-panel" tabindex="0" aria-label="Recent news, scroll for more">
   <ul class="news-list">
+    <li>Sep. 2026: <a href="#worldprism">WORLDPRISM</a> was accepted by NeurIPS 2026.</li>
     <li>Mar. 2026: <a href="https://jiah-cloud.github.io/Track4World.github.io/">Track4World</a> was accepted by ECCV 2026.</li>
     <li>Jun. 2026: <a href="https://wusar.github.io/projects/skeletongaussian/">SkeletonGaussian</a> was accepted by CVMJ.</li>
     <li>Apr. 2026: <a href="https://ruijiezhu94.github.io/MotionCrafter_Page">MotionCrafter</a> was selected as a CVPR 2026 Highlight🔥 paper.</li>
@@ -76,6 +77,26 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
 ### 3D/4D World Model
 
+<table id="worldprism" style="border-collapse: collapse; border: none;">
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2026-nips-worldprism.png" alt="WORLDPRISM overview" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+    </td>
+    <td style="align-items:center; border: none; padding-left: 20px;">
+      <a><b>WORLDPRISM: 3D Consistency for Video World Models via Bidirectional Cross-Space Verification</b></a>
+      <br><span><a href="https://openreview.net/profile?id=~Hengyu_Liu2">Hengyu Liu</a>, <a href="https://openreview.net/profile?id=~Jiahao_Lu5">Jiahao Lu</a>, <a href="https://openreview.net/profile?id=~Ruijie_Zhu2"><b>Ruijie Zhu</b></a>, <a href="https://openreview.net/profile?id=~Sixiao_Zheng1">Sixiao Zheng</a>, <a href="https://openreview.net/profile?id=~Yuan_Liu3">Yuan Liu</a>, <a href="https://openreview.net/profile?id=~Wenbo_Hu2">Wenbo Hu</a>, <a href="https://openreview.net/profile?id=~Ying_Shan2">Ying Shan</a></span>
+      <br> NeurIPS 2026
+      <br>
+      <!-- TODO: Add href attributes to the title and resource links when available; remove aria-disabled and title from the resource links. -->
+      <a aria-disabled="true" title="Coming soon">Paper</a>
+      <a aria-disabled="true" title="Coming soon">Project Page</a>
+      <a aria-disabled="true" title="Coming soon">Code</a>
+    </td>
+  </tr>
+
+</table>
+
 <table style="border-collapse: collapse; border: none;">
 
   <tr style="border: none;">
@@ -100,7 +121,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2026-arxiv-motioncrafter.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+      <img src="images/2026-cvpr-motioncrafter.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://ruijiezhu94.github.io/MotionCrafter_Page"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
@@ -315,7 +336,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/MotionCrafter_CVPR2026.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
+      <img src="images/2026-cvpr-motioncrafter-video.png" style="vertical-align:middle; width: 100%; object-fit: cover;"/>
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a href="https://youtu.be/oc0fRoZTyk8"><b>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</b></a>
