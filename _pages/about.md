@@ -85,7 +85,7 @@ My research interests lie in 3D Computer Vision, with a particular focus on:
     </td>
     <td style="align-items:center; border: none; padding-left: 20px;">
       <a><b>WorldPrism: 3D Consistency for Video World Models via Bidirectional Cross-Space Verification</b></a>
-      <br><span><a href="https://openreview.net/profile?id=~Hengyu_Liu2">Hengyu Liu</a>, <a href="https://openreview.net/profile?id=~Jiahao_Lu5">Jiahao Lu</a>, <a href="https://openreview.net/profile?id=~Ruijie_Zhu2"><b>Ruijie Zhu</b></a>, <a href="https://openreview.net/profile?id=~Sixiao_Zheng1">Sixiao Zheng</a>, <a href="https://openreview.net/profile?id=~Yuan_Liu3">Yuan Liu</a>, <a href="https://openreview.net/profile?id=~Wenbo_Hu2">Wenbo Hu</a>, <a href="https://openreview.net/profile?id=~Ying_Shan2">Ying Shan</a></span>
+      <br><span>Hengyu Liu, Jiahao Lu, <b>Ruijie Zhu</b>, Sixiao Zheng, Yuan Liu, Wenbo Hu, Ying Shan</span>
       <br> NeurIPS 2026
       <br>
       <!-- TODO: Add href attributes to the title and resource links when available; remove aria-disabled and title from the resource links. -->
